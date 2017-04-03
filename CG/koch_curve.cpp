@@ -5,6 +5,19 @@
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
+
+/*
+
+                           dP       oo          d8888b. dP   dP 
+                           88                       `88 88   88 
+88d888b. dP    dP .d8888b. 88d888b. dP .d8888b. .aaadP' 88aaa88 
+88'  `88 88    88 Y8ooooo. 88'  `88 88 88'  `"" 88'          88 
+88       88.  .88       88 88    88 88 88.  ... 88.          88 
+dP       `88888P' `88888P' dP    dP dP `88888P' Y88888P      dP 
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                                                
+*/
+
 #include<iostream>
 #include<graphics.h>
 #include<stdio.h>
