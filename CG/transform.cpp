@@ -4,10 +4,10 @@
 #include<math.h>
 using namespace std;
 
-int xar[20],yar[20],n;
 
 class bresenham
 {
+int xar[20],yar[20];
 int x,y,length,dx,dy,s1,s2;
 int e,ebar;
 int interchange;
@@ -17,6 +17,7 @@ return ((x>0) ? 1 : -1);
 }
 
 public:
+	int n;
 
 	void draw(float x1,float y1,float x2,float y2)
 	{
@@ -132,6 +133,15 @@ public:
 	for(int a=0;a<n;a++)
 	xar[a]=xar[a]+yar[a]*x;
 	}
+
+	friend istream &operator>>(istream& ist,bresenham &b){
+		for(int i=0;i<b.n;i++)
+			{
+				cout<<"\n"<<i+1<<"::";
+				ist>>b.xar[i]>>b.yar[i];
+			}
+			return ist;
+	}
        
 };
 
@@ -146,13 +156,9 @@ int main()
 	      int gdriver=DETECT,gmode;
 	       
 			cout<<"\nEnter no. of Sides:: ";
-			cin>>n;
+			cin>>b.n;
 			cout<<"\nEnter the Co-ordinate of Vertices::";
-			for(int i=0;i<n;i++)
-				{
-					cout<<"\n"<<i+1<<"::";
-					cin>>xar[i]>>yar[i];
-				}
+			cin>>b;
 				
    initgraph(&gdriver, &gmode, NULL);		
    //XInitThreads();		
