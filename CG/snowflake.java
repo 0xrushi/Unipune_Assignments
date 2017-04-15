@@ -4,7 +4,7 @@ import java.awt.*;
  
 import javax.swing.*;
  
-public class recursiveKochSnowFlakes extends JApplet{
+public class snowflake extends JApplet{
     int level = 0;
  
     public void init(){

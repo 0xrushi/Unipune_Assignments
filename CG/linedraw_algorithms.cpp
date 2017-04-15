@@ -16,7 +16,7 @@ class dda:public pixel
 	int x,y,length;
 	float dx,dy;
 public:
-	void draw(int x1,int x2,int y1,int y2)
+	void draw(int x1,int y1,int x2,int y2)
 	{
 		x=abs(x2-x1);
 		y=abs(y2-y1);

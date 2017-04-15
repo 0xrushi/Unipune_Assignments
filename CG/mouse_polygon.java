@@ -19,10 +19,7 @@ import javax.swing.*;
 /**
  * Creates points and draws lines with right-clicks and then draws the polygon with a left mouse click
  */
-<<<<<<< HEAD
 
-=======
->>>>>>> 8949178337f7ac35df273d187be93a71d04d0617
 public class DrawPolygon extends JApplet implements MouseListener {
     /**
 	 * 

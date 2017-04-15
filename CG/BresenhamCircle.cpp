@@ -42,6 +42,7 @@ void Circle::drawCircle(int r, int cx, int cy)
 		putpixel(cx+y, cy-x, 15);
 		putpixel(cx-y, cy+x, 15);
 		putpixel(cx-y, cy-x, 15);
+		putpixel(cx,cy,15)
 	}
 	
 }
