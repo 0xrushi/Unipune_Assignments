@@ -1,128 +1,126 @@
+//============================================================================
+// Name        : heap.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
 #include <iostream>
-#define MAX 10
+#define MAX 20
+
 using namespace std;
-class Heap					//declare class Heap
-{
-	public:
-	int array[MAX];			//integer array to store contents
-	int size_index;
 
-	Heap()					//initialize the heap
-	{
-		for(int i=0;i<MAX;i++)
-			array[i]=0;
-		size_index=-1;
-	}
-	void insert(int value)	//insert data in array 
-	{
-		size_index++;
-		array[size_index]=value;
-		reheap_Up(size_index);		//call reheap up to create heap again
-
-	}
-	void reheap_Up(int index)		//restore the heap property
-	{
-		int temp;
-		int k=1;
-		while(index>0 && array[index]>array[(index-1)/2])
-		{
-
-			temp=array[index];
-			array[index]=array[(index-1)/2];
-			array[(index-1)/2]=temp;
-			index=(index-1)/2;
+class heap{
+public:
+	int ar[MAX],n,value,x;
+public:
+	heap(){
+		for(int i=0;i<MAX;i++){
+			ar[i]=0;
 		}
-
+		n=0;
 	}
-	void reheap_Down(int numn)   //set the array in ascending order
-	{
 
-		int start=0;
-		int flag=1;
-		int l_start;
-		int l_index=size_index;
-		int temp=size_index;
-		int temp_value;
+	void create();
+	void reheapup(int);
+	void reheapdown(int,int);
+	void display();
+	void del();
+	void sort();
 
-			while(l_index>0)
-			{
-				start=0;							
-				flag=1;
-				temp=array[0];						//replace root element with last element
-				array[0]=array[l_index];
-				array[l_index]=temp;
-				l_index--;
-				while(2*start+1<=l_index && flag==1)
-				{
-					l_start=2*start+1;							//sort the array to restore heap property
-					if(l_start+1<=l_index && array[l_start+1]>array[l_start])
-					{
-						l_start=l_start+1;
-					}
-					if(array[start]>array[l_start])
-					{
-						flag=0;
-					}
-					else
-					{
-						temp_value=array[start];
-						array[start]=array[l_start];
-						array[l_start]=temp_value;
-						start=l_start;
-					}
-				}
-
-			}
-
-
-}
-	void display(int x)				//display the contents of array
-	{
-		for(int i=0;i<x;i++)
-			cout<<array[i]<<"\t";
-	}
 };
-int main()
-{
-	Heap object;
-	int num;
-	int value;
-	char string[MAX];
-	cout<<"Enter the Subject \n";
-	cin>>string;
-	cout<<"Enter the number of Students \t";		
-	cin>>num;
-	for(int i=0;i<num;i++)
-	{
-		cout<<"Enter their marks \t";
-		cin>>value;
-		object.insert(value);
 
-	}
-	object.display(num);
-	cout<<"\n";
-	object.reheap_Down(num);
-	cout<<"SUbject:## "<<string<<"\n";
-	cout<<"The Minimum marks Are \t"<<object.array[0]<<"\n";
-	cout<<"The Maximum marks Are \t"<<object.array[num-1]<<"\n";
-	object.display(num);
+int main() {
+	heap h;
+	cout << "!!----!!" << endl; // prints !!!Hello World!!!
+	h.create();
+	h.del();
+	h.display();
 
+	cout<<"n is "<<h.n<<endl;
+	h.del();
+	h.display();
 
+	cout<<"n is "<<h.n<<endl;
+	h.del();
+	h.display();
 
+	cout<<"n is "<<h.n<<endl;
+
+	h.display();
 	return 0;
 }
-/*Enter the Subject 
-Maths
-Enter the number of Students 	7
-Enter their marks 	120
-Enter their marks 	56
-Enter their marks 	6
-Enter their marks 	12
-Enter their marks 	130
-Enter their marks 	23
-Enter their marks 	67
-130	120	67	12	56	6	23	
-SUbject:## Maths
-The Minimum marks Are 	6
-The Maximum marks Are 	130
-6	12	23	56	67	120	130	*/
+
+void heap::create() {
+	cout<<"Enter total elements \n";
+	cin>>n;
+	x=n;
+	for(int i=0;i<n;i++){
+		cout<<"Enter value \n";
+		cin>>value;
+		ar[i]=value;
+		reheapup(i);
+	}
+	for(int i=0;i<n;i++){
+		cout<<"  "<<ar[i];
+	}
+	cout<<endl;
+}
+
+void heap::reheapup(int i) {
+	while(ar[i]>ar[(i-1)/2]&&i>0){
+		int temp=ar[i];
+		ar[i]=ar[(i-1)/2];
+		ar[(i-1)/2]=temp;
+		i=(i-1)/2;
+	}
+}
+
+void heap::reheapdown(int i,int q) {
+	int j,flag=1;
+	while((2*i+1)<q&&flag==1){
+		j=2*i+1;
+		if(j+1<q&&ar[j]<ar[j+1]){
+			j++;
+		}
+		if(ar[i]>ar[j]){
+			flag=0;
+		}
+		else
+		{
+			int temp=ar[i];
+			ar[i]=ar[j];
+			ar[j]=temp;
+			i=j;
+		}
+	}
+
+}
+
+void heap::display() {
+	for(int i=0;i<n;i++){
+		cout<<"  "<<ar[i];
+	}
+	cout<<endl;
+}
+
+void heap::del() {
+	int temp=ar[0];
+	ar[0]=ar[n-1];
+	ar[n-1]=temp;
+	n--;
+	reheapdown(0,n);
+}
+
+void heap::sort() {
+	x=n;
+	for(int i=0;i<7;i=i+1)
+	{
+		int temp=ar[0];
+		ar[0]=ar[n-1];
+		ar[n-1]=temp;
+		n--;
+		reheapdown(0,n);
+	}
+}

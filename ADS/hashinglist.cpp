@@ -62,8 +62,7 @@ cout<<"\nkey="<<key<<".............";
 
 	if(temp->word>p->word)
 	  {
-		  cout<<"before swap "<<temp->word<<","<<p->word<<endl;
-		  cout<<"fukkk\n";
+		cout<<"before swap "<<temp->word<<","<<p->word<<endl;
 	  	string ddf;
 	  	ddf=temp->word;
 	  	temp->word=p->word;

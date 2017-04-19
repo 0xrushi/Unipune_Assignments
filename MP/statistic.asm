@@ -1,33 +1,28 @@
-;
-;            _     _      _____   ___ 
-;               | |   (_)    / __  \ /   |
-; _ __ _   _ ___| |__  _  ___`' / /'/ /| |
-;| '__| | | / __| '_ \| |/ __| / / / /_| |
-;| |  | |_| \__ \ | | | | (__./ /__\___  |
-;|_|   \__,_|___/_| |_|_|\___\_____/   |_/
-;                                         
-;
+;ASSIGNMENT NAME:- Calculate Mean, Variance & Standard Deviation of numbers stored in an array using the Numeric Co-processor 80387.
+
+;INPUT:
+
+extern printf
 
 section .data
 	msg db '',0xa
 	len equ $ - msg
-	msg0 db '.',0xa
-	len0 equ $ - msg0
-	msg1 db 10, 'Calculate Mean, Variance & Standard Deviation.',0xa
+	msg1 db 10, 'Calculate Mean, Variance & Standard Deviation.', 0xa, 0
 	len1 equ $ - msg1
-	msg2 db 10, 'The Numbers are ',0xa
+	msg2 db 10, 'The Numbers are ', 0
 	len2 equ $ - msg2
-	msg3 db 10, 'Mean: '
+	msg3 db 10, 'Mean: ', 0
 	len3 equ $ - msg3
-	msg4 db 10, 'Variance: '
+	msg4 db 10, 'Variance: ', 0
 	len4 equ $ - msg4
-	msg5 db 10, 'Standard Deviation: '
+	msg5 db 10, 'Standard Deviation: ', 0
 	len5 equ $ - msg5
 	count db 03
-	c dt 3.0
-	a dt 10.2, 4.9, 5.0
+	c dq 3.0
+	a dq 10.2, 4.9, 5.0
 	cnt db 0
-	th dt 10000.0
+	fmt db "%s%lf", 10, 0          ; The printf format, "\n",'0'
+	fmt1 db "%s%lf, %lf, %lf", 10, 0          ; The printf format, "\n",'0'
 	
 	%macro display 2
 	push rsi
@@ -39,18 +34,37 @@ section .data
 	pop rsi
 	%endmacro
 	
+	%macro displayfloat 2
+	mov rdi, fmt
+	sub rsp, 8
+	mov rsi, %1
+	movsd xmm0, [%2]
+	mov rax, 1
+	call printf
+	add rsp, 8
+	%endmacro
+	
 section .bss
-	diff rest 1
-	mean rest 1
-	var rest 1
-	sd rest 1
-	dispbuff resb 1
-	dispbuff1 resb 1
+	diff resq 1
+	mean resq 1
+	var resq 1
+	sd resq 1
+
 section .text
-	global _start
-_start:
+	global main
+main:
 
 	display msg1, len1
+	
+	mov rdi, fmt1
+	sub rsp, 8
+	mov rsi, msg2
+	movsd xmm0, [a]
+	movsd xmm1, [a+8]
+	movsd xmm2, [a+16]
+	mov rax, 1
+	call printf
+	add rsp, 8
 	
 	finit				;Initialize the Numeric Co-Processor
 	fldz				;Load Stack top with 0
@@ -61,9 +75,9 @@ _start:
 	mov rcx, r9
 	mov rsi, a
 	
-stkarr:	fld tword[rsi]			;Load Stack top with rsi
+stkarr:	fld qword[rsi]			;Load Stack top with rsi
 	mov r8, rsi
-	add r8, 10
+	add r8, 8
 	mov rsi, r8
 	loop stkarr
 	
@@ -73,11 +87,9 @@ stkarr:	fld tword[rsi]			;Load Stack top with rsi
 addarr:	fadd				;Stack top= ST[1]+ST[0]= (b+c)+a
 	loop addarr
 	
-	fld tword[c]			;Load Stack top with count
+	fld qword[c]			;Load Stack top with count
 	fdiv				;Quotient=ST[1]/ST[0]=Stack top= [(b+c)+a]/count
-	fld tword[th]
-	fmul
-meano:	fstp tword[mean]		;Store & Pop mean in the destination variable
+meano:	fstp qword[mean]		;Store & Pop mean in the destination variable
 
 ;***********************************VARIANCE************************************
 	
@@ -85,15 +97,15 @@ meano:	fstp tword[mean]		;Store & Pop mean in the destination variable
 	mov cl, byte[count]
 	
 stkarr1:	
-	fld tword[rsi]			;Load Stack top with rsi
-	fld tword[mean]			;Load Stack top with mean
+	fld qword[rsi]			;Load Stack top with rsi
+	fld qword[mean]			;Load Stack top with mean
 	fsub				;Stack top= ST[1]-ST[0]= ai - mean
-	fstp tword[diff]		;Store & pop Stack top in a variable
-	fld tword[diff]			;Load Stack top with diff
-	fld tword[diff]			;Load Stack top with diff
+	fstp qword[diff]		;Store & pop Stack top in a variable
+	fld qword[diff]			;Load Stack top with diff
+	fld qword[diff]			;Load Stack top with diff
 	fmul				;Squaring (ai-mean)
 	mov r8, rsi
-	add r8, 10
+	add r8, 8
 	mov rsi, r8
 	loop stkarr1
 	
@@ -104,56 +116,22 @@ addarr1:
 	fadd				;Stack top= ST[1]+ST[0]= [(b-mean)^2 + (c-mean)^2] + (a-mean)^2
 	loop addarr1
 	
-	fld tword[c]			;Load Stack top with count
+	fld qword[c]			;Load Stack top with count
 	fdiv				;ST[1]/ST[0]=Stack top= {[(b-mean)^2+(c-mean)^2]+(a-mean)^2}/count
-	fld tword[th]
-	fmul
-vari:	fstp tword[var]			;Store & pop variance in the destination variable
+vari:	fstp qword[var]			;Store & pop variance in the destination variable
 
 ;*****************************STANDARD DEVIATION********************************
 	
-	fld tword[var]			;Load Stack top with variance
+	fld qword[var]			;Load Stack top with variance
 	fsqrt				;Stack top= sqrt(variance)
-sdn:	fstp tword[sd]			;Store & Pop sqrt(variance) in the destination variable
+sdn:	fstp qword[sd]			;Store & Pop sqrt(variance) in the destination variable
 		
 ;*************************************************************************************************	
 
-	display msg3, len3
-	mov ebp, mean
-	call disp
+	displayfloat msg3, mean
+	displayfloat msg4, var
+	displayfloat msg5, sd
 	
 	mov rax,60
 	syscall
-	
-;SUBROUTINES:
 
-disp:
-	mov byte[cnt], 10
-	add ebp, 9
-	again:
-		mov bl, [ebp]
-		cmp byte[cnt], 2
-		jne next
-		display msg0, len0
-		jmp skip1
-		next:
-			mov rcx, 2
-			dispup:
-				rol bl, 4
-				mov [dispbuff], bl
-				and bl, 0fh
-				cmp bl, 09h
-				jbe skip
-				add bl, 07h
-			skip:
-				add bl, 30h
-				mov [dispbuff1], bl
-				display dispbuff1, 1
-				mov bl, [dispbuff]
-				loop dispup
-	skip1:
-		dec ebp
-		dec byte[cnt]
-		jnz again
-	display msg, len
-	ret

@@ -1,0 +1,29 @@
+;Write 80387ALP to obtain:
+;i) Mean ii) Variance iii) Standard Deviation
+;For a given set of data elements defined in data segment. Also display result.
+
+section .data
+	array dd 5.00,6.00,7.00,8.00,5.00
+	count dw 5
+	hdec dq 100
+	msg1 db 10,10,"****MENU****",10
+	len1 equ $-msg1
+	msg2 db "1.Calculate Mean",10
+	len2 equ $-msg2
+	msg3 db "2.Calculate Variance",10
+	len3 equ $-msg3
+	msg4 db "3.Calculate Standard Variance",10
+	len4 equ $-msg4
+	msg5 db "4.Exit",10
+	len5 equ $-msg5
+	msg6 db 10,"Enter choice:"
+	len6 equ $-msg6
+	msg7 db 10,"Mean:"
+	len7 equ $-msg7
+	msg8 db 10,"Variance:"
+	len8 equ $-msg8
+	msg9 db 10,"Standard Deviation:"
+	len9 equ $-msg9
+	point db "."
+		
+section .bss
