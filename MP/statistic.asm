@@ -17,14 +17,18 @@ section .data
 	len4 equ $ - msg4
 	msg5 db 10, 'Standard Deviation: ', 0
 	len5 equ $ - msg5
+
 	count db 03
+
 	c dq 3.0
+
 	a dq 10.2, 4.9, 5.0
+
 	cnt db 0
 	fmt db "%s%lf", 10, 0          ; The printf format, "\n",'0'
 	fmt1 db "%s%lf, %lf, %lf", 10, 0          ; The printf format, "\n",'0'
 	
-	%macro display 2
+%macro display 2
 	push rsi
 	mov rax,1
 	mov rdi,1
@@ -32,9 +36,9 @@ section .data
 	mov rdx,%2
 	syscall
 	pop rsi
-	%endmacro
+%endmacro
 	
-	%macro displayfloat 2
+%macro displayfloat 2
 	mov rdi, fmt
 	sub rsp, 8
 	mov rsi, %1
@@ -42,29 +46,33 @@ section .data
 	mov rax, 1
 	call printf
 	add rsp, 8
-	%endmacro
+%endmacro
+
+%macro displayf2 4
+	mov rdi,fmt1
+	sub rsp,8
+	mov rsi,%1
+	movsd xmm0,%2
+	movsd xmm1,%3
+	movsd xmm2,%4
+	mov rax,1
+	call printf
+	add rsp,8
+%endmacro 
 	
 section .bss
-	diff resq 1
+	diff resq 1  ;this is same as resb 8
 	mean resq 1
 	var resq 1
 	sd resq 1
 
 section .text
-	global main
+global main
 main:
 
 	display msg1, len1
 	
-	mov rdi, fmt1
-	sub rsp, 8
-	mov rsi, msg2
-	movsd xmm0, [a]
-	movsd xmm1, [a+8]
-	movsd xmm2, [a+16]
-	mov rax, 1
-	call printf
-	add rsp, 8
+	displayf2 fmt1,[a],[a+8],[a+16]
 	
 	finit				;Initialize the Numeric Co-Processor
 	fldz				;Load Stack top with 0
