@@ -8,7 +8,6 @@ import java.util.StringTokenizer;
 
 
 class MNT{
-	
 	public void write(int mntc,String name,int mdtc) throws IOException{
 	PrintWriter pw=new PrintWriter(new FileWriter(Constants.mnt,true));
 	pw.println(mntc+"\t"+name+"\t"+mdtc);

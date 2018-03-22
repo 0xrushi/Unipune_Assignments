@@ -1,0 +1,9 @@
+0		 ADD &1,&2
+1	L
+2	A
+3	ST
+4	MEND
+5		 STORE &1 	
+6	MEND
+7		 NOARG 	 	
+8	MEND
