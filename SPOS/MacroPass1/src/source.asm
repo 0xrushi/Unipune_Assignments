@@ -2,13 +2,13 @@ PRG1 START 100
 	 L 1,FIVE
 	 A 1,='3'
 	 MACRO 	
-	 ADD &1,&2
+	 ADD &A1,&A2
 	 L 5,&A1
 	 A 5,&A2
 	 ST 5,RES
 	 MEND 	
 	 MACRO 	
-	 STORE &1 	
+	 STORE &A1 	
 	 L 6,&A1
 	 ST 6,RES
 	 MEND 	

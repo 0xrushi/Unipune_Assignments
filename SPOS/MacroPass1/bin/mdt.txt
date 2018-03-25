@@ -1,9 +1,20 @@
-0		 ADD &1,&2
-1	L
-2	A
-3	ST
-4	MEND
-5		 STORE &1 	
-6	MEND
-7		 NOARG 	 	
-8	MEND
+0		 ADD #1,&A2
+1		 ADD &A1,#2
+2		 L 5,#A1
+3		 A 5,#A2
+4		 ST 5,RES
+5	MEND
+6		 STORE #3 	
+7	MEND
+8	#4 NOARG #4 #4
+9	MEND
+0		 ADD #1,&A2
+1		 ADD &A1,#2
+2		 L 5,#A1
+3		 A 5,#A2
+4		 ST 5,RES
+5	MEND
+6		 STORE #3 	
+7	MEND
+8	#4 NOARG #4 #4
+9	MEND

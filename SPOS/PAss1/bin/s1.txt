@@ -1,11 +1,12 @@
-JOHN START 0 	
+PRG1 START 100 	
 	 USING *,15
 	 L 1,FIVE
-	 L 3,=F'10'
-	 A 1,FOUR
-	 ST 1,TEMP
-FOUR DC F'4' 	
-FIVE DC F'5' 	
-TEMP DS 1F 	
+	 SR 3,3
+	 A 1,=F'3'
+	 ST 1,RTS
 	 LTORG 	 	
+	 A 1,FIVE
+	 S 1,=F'2'
+FIVE DC F'5' 	
+RTS DS 2F 	
 	 END 	 	

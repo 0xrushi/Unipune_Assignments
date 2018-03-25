@@ -1,0 +1,13 @@
+0		 ADD &A1,&A2
+1		 L 5,#1
+2		 A 5,#2
+3		 ST 5,RES
+4	MEND
+5		 STORE &A1 	
+6		 L 6,#1
+7		 ST 6,RES
+8	MEND
+9		 NOARG 	 	
+10		 L 5,6
+11		 ST 5,RES
+12	MEND

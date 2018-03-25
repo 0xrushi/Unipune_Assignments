@@ -1,52 +1,10 @@
-0	JOHN	START	0	null
-0			USING	*	null
-0			L	1	null
-4			L	3	null
-8			A	1	null
-12			ST	1	null
-16	FOUR	DC	F'4'	null
-20	FIVE	DC	F'5'	null
-24	TEMP	DS	1F	null
-28			LTORG			null
-32			END			null
-0	JOHN	START	0	null
-0			USING	*	null
-0			L	1	null
-4			L	3	null
-8			A	1	null
-12			ST	1	null
-16	FOUR	DC	F'4'	null
-20	FIVE	DC	F'5'	null
-24	TEMP	DS	1F	null
-28			LTORG			null
-32			END			null
-0	JOHN	START	0	null
-0			USING	*	null
-0			L	1	null
-4			L	3	null
-8			A	1	null
-12			ST	1	null
-16	FOUR	DC	F'4'	null
-20	FIVE	DC	F'5'	null
-24	TEMP	DS	1F	null
-28			LTORG			null
-32			END			null
-0	JOHN	START	0	null
-0			USING	*	null
-0			L	1	null
-4			L	3	null
-8			A	1	null
-12			ST	1	null
-16	FOUR	DC	F'4'	null
-20	FIVE	DC	F'5'	null
-24	TEMP	DS	1F	null
-28			LTORG			null
-32			END			null
-0	JOHN	START	0	null
-0			USING	*	null
-0			L	1	null
-4			L	3	null
-8			A	1	null
-12			ST	1	null
-16	FOUR	DC	F'4'	null
-20	FIVE	DC	F'5'	null
+100	PRG1	START	100	null
+100			USING	*	null
+100			L	1	null
+104			A	1	null
+108			ST	1	null
+112			LTORG			null
+120			A	1	null
+124	FIVE	DC	F'5'	null
+128	RTS	DS	2F	null
+136			END			null

@@ -4,6 +4,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.HashMap;
 import java.util.StringTokenizer;
 
 
@@ -63,8 +64,10 @@ public class Mian {
 		Intermediate imt=new Intermediate();
 		int mdtc=0,mntc=0,ala_ind=0,counter=0;
 		boolean mendoccurred=false,macrooccurred=false;
+		HashMap<String, Integer>map=new HashMap<String,Integer>();
 		
 		while((source_line=br.readLine())!=null){
+                    
 			//System.out.println(source_line);
 			StringTokenizer st=new StringTokenizer(source_line," ");
 			source_token[0]=st.nextToken();//label
@@ -85,28 +88,46 @@ public class Mian {
 				source_token[1]=st.nextToken();//opcode
 				source_token[2]=st.nextToken();//operands
 				
-				mdt.write(mdtc, source_line);
-				mnt.write(mntc, source_token[1], mdtc);
-				mntc++;
-				mdtc++;
-				
-				System.out.println(source_token[2]);
+                                System.out.println(source_token[2]);
 				st=new StringTokenizer(source_token[2],",");
-				while(st.hasMoreTokens()){
+                                int tmp=0;
+				while(st.hasMoreTokens()&&source_token[2].contains("&")){
 					String arg_i=st.nextToken();
 					//System.out.println(arg_i);
 					ala.write(ala_ind, arg_i);
 					ala_ind++;
+                                        tmp++;
+					map.put(arg_i, tmp);
+					
 				}
+				mdt.write(mdtc,source_line );
+				mnt.write(mntc, source_token[1], mdtc);
+				mntc++;
+				mdtc++;
+				
 			}
 			else if(!mendoccurred&&macrooccurred){
-				mdt.write(mdtc,source_token[1]);
+                            for(HashMap.Entry<String,Integer> entry:map.entrySet())
+				{
+					String key=entry.getKey();
+					String val=String.valueOf(entry.getValue());
+					System.out.println(val+"value");
+                                        System.out.println(key+"asdfg");
+                                        source_line=source_line.replaceAll(key, "#"+val);
+                                        System.out.println(source_line);
+				}
+				mdt.write(mdtc,source_line.replace("&", "#"));
 				mdtc++;
 			}
 			else{
 				imt.write(counter, source_token[0], source_token[1], source_token[2]);
 				counter++;
 			}
+                        if(mendoccurred&&macrooccurred){
+                            mendoccurred=false;
+                            macrooccurred=false;
+                            map.clear();
+                        }
 			
 		}
 	}
