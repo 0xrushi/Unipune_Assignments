@@ -1,0 +1,4 @@
+0	ADD	0
+1	ADD	1
+2	STORE	6
+3	NOARG	8

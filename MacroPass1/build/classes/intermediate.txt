@@ -1,0 +1,14 @@
+0	PRG1	START	100
+1			L	1,FIVE
+2			A	1,='3'
+3			MEND		
+4			MEND		
+5			MEND		
+6			SR	3,3
+7			ADD	3,5
+8			STORE	7
+9			NOARG		
+10			BR	5,5
+11	FIVE	DC	F'5'
+12	RES	DS	F
+13			END		
