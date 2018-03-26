@@ -1,3 +1,0 @@
-0	ADD	0
-1	STORE	5
-2	NOARG	9
