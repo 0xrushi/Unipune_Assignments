@@ -1,0 +1,12 @@
+PRG1 START 100 	
+	 USING *,15
+	 L 1,FIVE
+	 SR 3,3
+	 A 1,=F'3'
+	 ST 1,RTS
+	 LTORG 	 	
+	 A 1,FIVE
+	 S 1,=F'2'
+FIVE DC F'5' 	
+RTS DS 2F 	
+	 END 	 	

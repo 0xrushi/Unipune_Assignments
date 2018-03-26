@@ -1,0 +1,10 @@
+100	PRG1	START	100	null
+100			USING	*	null
+100			L	1	null
+104			A	1	null
+108			ST	1	null
+112			LTORG			null
+120			A	1	null
+124	FIVE	DC	F'5'	null
+128	RTS	DS	2F	null
+136			END			null
