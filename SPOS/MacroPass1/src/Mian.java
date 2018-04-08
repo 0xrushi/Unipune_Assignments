@@ -90,15 +90,14 @@ public class Mian {
 				
                                 System.out.println(source_token[2]);
 				st=new StringTokenizer(source_token[2],",");
-                                int tmp=0;
+
 				while(st.hasMoreTokens()&&source_token[2].contains("&")){
 					String arg_i=st.nextToken();
 					//System.out.println(arg_i);
 					ala.write(ala_ind, arg_i);
+                                        map.put(arg_i, ala_ind);
+                                        source_line=source_line.replaceAll(arg_i, "#"+ala_ind);
 					ala_ind++;
-                                        tmp++;
-					map.put(arg_i, tmp);
-					
 				}
 				mdt.write(mdtc,source_line );
 				mnt.write(mntc, source_token[1], mdtc);
@@ -119,14 +118,14 @@ public class Mian {
 				mdt.write(mdtc,source_line.replace("&", "#"));
 				mdtc++;
 			}
-			else{
+                        else if(!mendoccurred){
 				imt.write(counter, source_token[0], source_token[1], source_token[2]);
 				counter++;
 			}
                         if(mendoccurred&&macrooccurred){
                             mendoccurred=false;
                             macrooccurred=false;
-                            map.clear();
+//                            map.clear();
                         }
 			
 		}
