@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="cal.css">
+		<title>Calculator</title>
+	</head>
+	
+	<body>
+		
+		<h1>Calculator</h1>
+		
+		<div ng-app="MyApp" ng-controller="cal" class="main">
+        <form name="MyForm" novalidate>
+			<p>Number 1</p><input type="number" name="num1" ng-model="num1" required><span style="color:red" ng-show="MyForm.num1.$touched && MyForm.num1.$invalid ">* The field value is INVALID</span><br>
+			<p>Number 2</p><input type="number" name="num2" ng-model="num2" required><span style="color:red" ng-show="MyForm.num2.$touched && MyForm.num2.$invalid ">* The field value is INVALID</span><br>
+			<div class="buttons">
+				<button name="add" ng-click="add()">+</button>
+				<button name="sub" ng-click="sub()">-</button>
+				<button name="mul" ng-click="mul()">*</button>
+				<button name="div" ng-click="div()">/</button><br>
+			</div>	
+			<p class="answer"> Answer: {{ans}}</p>	
+		</form>
+		
+		</div>
+		
+		<script>
+			app=angular.module("MyApp",[]);
+			app.controller("cal",function($scope){
+				
+				$scope.add=function(){
+					$scope.ans=$scope.num1+$scope.num2;
+				};	
+				$scope.sub=function(){
+					$scope.ans=$scope.num1-$scope.num2;
+				};	
+				$scope.mul=function(){
+					$scope.ans=$scope.num1*$scope.num2;
+				};	
+				$scope.div=function(){
+					$scope.ans=$scope.num1/$scope.num2;
+				};	
+				
+				
+			});
+			
+
+		</script>
+	</body>
+</html>
+

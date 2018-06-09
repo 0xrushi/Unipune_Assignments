@@ -1,0 +1,14 @@
+<?xml version ="1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type="text/css" href="book_catalog.css"?>
+<catalog>
+    <book>
+        <title>database management systems </title>
+        <author>korth</author>
+        <price>500</price>
+    </book>
+    <book>
+        <title>Computer Network </title>
+        <author>Tenenbaum</author>
+        <price>600</price>
+    </book>
+</catalog>

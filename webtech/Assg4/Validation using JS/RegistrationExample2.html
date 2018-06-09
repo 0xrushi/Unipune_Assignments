@@ -1,0 +1,132 @@
+<html>
+	<head>
+		<title>Form</title>
+		<link rel="stylesheet" type="text/css" href="form.css">
+		<script>
+			function ValidateForm()
+			{
+			
+				var email_pattern ="^[\\w-_\.]*[\\w-_\.]\@[\\w]+\.[\\w]+[\\w]$";
+				var phone1	="^[1-9][0-9]{9}$";
+				var digits	="^[1-9][0-9]*";
+				var letters	="^[a-zA-Z]+$";
+				
+				var first=document.forms["myForm"]["first"].value;
+				var last=document.forms["myForm"]["last"].value;
+				var address=document.forms["myForm"]["address"].value;
+				var age=document.forms["myForm"]["age"].value;
+				var email=document.forms["myForm"]["email"].value;
+				var phone=document.forms["myForm"]["phone"].value;
+				var gender=document.forms["myForm"]["gender"].value;
+				if(first=="")
+				{
+					document.getElementById("first").innerHTML="Please fill the first name ";
+					
+				}
+				else
+				{
+					document.getElementById("first").innerHTML="";
+				}
+				if(gender=="")
+				{
+					document.getElementById("gender").innerHTML="Please select a field";
+					
+				}
+				else
+				{
+					document.getElementById("gender").innerHTML="";
+				}
+				if(last=="")
+				{
+					document.getElementById("last").innerHTML="Please fill the last name ";
+					
+				}
+				else
+				{
+					document.getElementById("last").innerHTML="";
+				}
+				if(address=="")
+				{
+					document.getElementById("address").innerHTML="Please fill the address ";
+					
+				}
+				else
+				{
+					document.getElementById("address").innerHTML="";
+				}
+				if(age=="")
+				{
+					document.getElementById("age").innerHTML="Please fill the age ";
+					
+				}
+				else if(!age.match(digits))
+				{
+					document.getElementById("age").innerHTML="Please fill CORRECT age";
+				}
+				else
+				{
+					document.getElementById("age").innerHTML="";
+				}
+				if(email=="")
+				{
+					document.getElementById("email").innerHTML="Please fill the email";
+					
+				}
+				else if(!email.match(email_pattern))
+				{
+					document.getElementById("email").innerHTML="Please fill CORRECT email-id";
+				}
+				else
+				{
+					document.getElementById("email").innerHTML="";
+				}
+				if(phone=="")
+				{
+					document.getElementById("phone").innerHTML="Please fill the phone no. ";
+					
+				}
+				else if(!phone.match(phone1))
+				{
+					document.getElementById("phone").innerHTML="Please fill CORRECT phone-no";
+				}
+				else
+				{
+					document.getElementById("phone").innerHTML="";
+				}	
+				
+			}
+		</script>
+	</head>
+	<body>
+	
+		<h1> Student Sign-Up Form</h1>
+		<div>
+		<form name="myForm" method="post">
+			<p>First Name</p>
+			<input type="text" placeholder="First Name" name="first"><p id="first" style="font-size:12px;color:red;background-color:linen"></p><br>
+			<p>Last Name</p> 
+			<input type="text" placeholder="Last Name" name="last"><p id="last" style="font-size:12px;color:red;background-color:linen"></p><br>
+			<p>City</p> 
+			      <select name="cities">
+				<option value="Pune">Pune</option>
+				<option value="Mumbai">Mumbai</option>
+				<option value="Delhi">Delhi</option>
+				<option value="London">London</option>
+				<option value="Paris">Paris</option>
+			      </select><br>
+			<p>Address</p>
+			<input type="text" placeholder="Address" name="address"><p id="address" style="font-size:12px;color:red;background-color:linen"></p><br>
+			<p>Age</p>
+			<input type="text" placeholder="Age" name="age"><p id="age" style="font-size:12px;color:red;background-color:linen"></p><br>
+			<input type="radio" name="gender" value="male"><p>Male</p>  <input type="radio" name="gender" value="female"><p>Female</p><p id="gender" style="font-size:12px;color:red;background-color:linen"></p><br>
+			<p>E-mail</p>
+			<input type="text" placeholder="abc@gmail.com" name="email"><p id="email" style="font-size:12px;color:red;background-color:linen"></p><br>
+			<p>Phone No</p>
+			<input type="text" name="phone"><p id="phone" style="font-size:12px;color:red;background-color:linen"></p><br>
+			<input type="button" value="Validate" onClick="ValidateForm()">
+			<input type="submit" name="submit" value="Submit" >
+			
+		</form>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,2 @@
+Main file is login.html , it will call login.jsp for validation and 
+that will open home.html or inval.html

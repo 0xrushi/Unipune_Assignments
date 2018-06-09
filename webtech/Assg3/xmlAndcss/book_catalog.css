@@ -1,0 +1,20 @@
+book{
+    display: block;
+    margin-left:0;
+    margin-bottom: 30px; 
+}
+
+catalog{
+    width: 100%;
+    background-color: aliceblue;
+}
+
+title{
+    color: blueviolet;
+    font-size: 20px;
+}
+
+price{
+    color: red;
+    display: block;
+}

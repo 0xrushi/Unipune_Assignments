@@ -1,0 +1,52 @@
+body{
+	background:#eee;
+}
+h1{
+	text-align:center;
+	padding:40px;
+}
+.buttons{
+	padding-top:30px;
+	width:55%;
+	display:block;
+	margin:auto;
+	
+}
+input.ng-valid{
+	background-color:lightgreen;
+}
+input.ng-invalid{
+	background-color:red;
+}
+.main{
+	width:30%;
+	margin:auto;
+	background-color:white;
+	padding:30px;
+	border-radius:20px;
+	
+}
+p{
+	color:black;
+	font-weight:bolder;
+	display: inline-block;
+	width:40%;
+	padding:10px;
+}
+button{
+	width:23%;
+	margin:auto;
+	color:white;
+	font-size:35px;
+	font-weight:bolder;
+	background-color:black;
+	height:10%;
+	border:none;
+	border-radius: 10px;
+}
+.answer{
+	color:red;
+	font-size:25px;
+	
+}
+

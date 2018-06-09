@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<title>PHP with MySQL</title>
+		<link rel="stylesheet" type="text/css" href="form.css">
+		<?php
+			
+				$conn=mysqli_connect('localhost','root','');
+				$sql="create database mydb";
+				
+				$conn=mysqli_connect('localhost','root','','mydb');
+				$sql="create table student(roll int(3),name varchar(40),class varchar(10),dept varchar(10),per varchar(10))";
+				
+				//$sql="insert into student values(790,'lo','TE!','COm','8-0')";
+				mysqli_query($conn,$sql);
+				
+			
+			
+		?>
+		
+			
+	</head>
+	<body>	
+		
+	</body>
+		
+</html>
+

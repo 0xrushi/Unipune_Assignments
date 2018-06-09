@@ -1,0 +1,20 @@
+
+<html>
+    <head>
+        <title>WELCOME</title>
+
+        <script>
+            function display(){
+                var xhttp=XMLHttpRequest();
+                xhttp.onreadystatechange=function(){
+                if(xhttp.status==200 && xhttp.readyState==4){
+                xhttp.open("GET","display.php",true);
+                xhttp.send();                
+                }
+           }
+           
+           xhttp.open("GET","display.php",true);
+           xhttp.send();
+        </script>
+    </head>
+</html>

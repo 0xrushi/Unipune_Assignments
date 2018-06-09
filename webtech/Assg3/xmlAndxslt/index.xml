@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+<book_info>
+	<book>
+		<title>Malgudi Days</title>
+		<author>R. K. Narayan</author>
+		<price>50</price>
+		<year>1900</year>
+	</book>
+	<book>
+		<title>To kill a Mockingburd</title>
+		<author>abc</author>
+		<price>100</price>
+		<year>1960</year>
+	</book>
+	<book>
+		<title>Little Women</title>
+		<author>Louisa May Scott</author>
+		<price>150</price>
+		<year>1860</year>
+	</book>
+	<book>
+		<title>XX</title>
+		<author>XYZ</author>
+		<price>200</price>
+		<year>1945</year>
+	</book>
+	<book>
+		<title>ABC</title>
+		<author>MNQ</author>
+		<price>500</price>
+		<year>2010</year>
+	</book>
+	<book>
+		<title>Days</title>
+		<author>K. Narayan</author>
+		<price>52</price>
+		<year>1920</year>
+	</book>
+	<book>
+		<title>Malgudi </title>
+		<author>R. Narayan</author>
+		<price>520</price>
+		<year>1964</year>
+	</book>
+</book_info>

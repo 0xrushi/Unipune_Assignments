@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <link rel="stylesheet" type="text/css" href="form.css">
+        <script>
+            function display(){
+              //document.getElementById("demo").innerHTML="<h1>Hello</h1>";
+                var xhttp=new XMLHttpRequest();
+                xhttp.onreadystatechange=function(){
+                    if(this.readyState==4 && this.status==200)
+                    {
+                        document.getElementById("demo").innerHTML=this.responseText;
+                        
+                    }
+                    
+                }
+                xhttp.open("GET","display.php",true);
+                xhttp.send();
+                
+            }
+            function insert(){
+              //document.getElementById("demo").innerHTML="<h1>Hello</h1>";
+                var xhttp=new XMLHttpRequest();
+                 
+                var id1=document.getElementById("id").value;
+                var name=document.getElementById("name").value;
+                var dept=document.getElementById("dept").value;
+                var sal=document.getElementById("sal").value;
+               
+               xhttp.onreadystatechange=function(){
+                    if(this.readyState==4 && this.status==200)
+                    {
+                     document.getElementById("txthint").innerHTML=this.responseText;
+                        
+                    }
+                    
+                }
+                xhttp.open("GET","insert.php?id="+id1+"&name="+name+"&dept="+dept+"&sal="+sal,true);
+                xhttp.send();
+                
+            }
+            
+        </script>    
+        
+    </head>
+    <body>
+        <h1>Employee Information </h1><br>
+        <div class="top">
+            <h2>Insert Information</h2>
+            <button class="display" onclick="display()">Display Employee Information</button>
+        </div>
+        <div class="contain">
+            <div class="form1">
+                <form name="myForm" method="post">
+                    <p class="para">Employee ID</p> <input type="text" id="id"><br>
+                    <p class="para">Name      </p> <input type="text" id="name"><br>
+                    <p class="para">Department</p> <input type="text" id="dept"><br>
+                    <p class="para">Salary</p> <input type="text" id="sal"><br>
+                    <input type="submit" value="Submit" onClick="insert()">
+                </form>
+                
+                <p id="txthint"></p>
+            </div> 
+            <div class="table1">
+                <table id="demo"></table>
+            </div>
+        </div>    
+    </body>
+</html>
