@@ -1,0 +1,9 @@
+int a;
+int a,b,c;
+int a,b=0,c;
+String s;
+int a[];
+int[] a=new int[20];
+String s="";
+String s1=new String("Welcome");
+String s2="Welcome";
