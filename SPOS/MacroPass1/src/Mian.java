@@ -45,7 +45,7 @@ class Intermediate{
 }
 
 class Constants{
-	final static String PATH="/home/h4x3d/TE3Sem2/SPOS/workspace/MacroPass1/src/";
+	final static String PATH="/home/h4x3d/Documents/TE3Sem2/Unipune_Assignments/SPOS/MacroPass1/src/";
 	final static String source=PATH+"source.asm";
 	final static String intermediate=PATH+"intermediate.txt";
 	final static String mnt=PATH+"mnt.txt";
@@ -95,8 +95,8 @@ public class Mian {
 					String arg_i=st.nextToken();
 					//System.out.println(arg_i);
 					ala.write(ala_ind, arg_i);
-                                        map.put(arg_i, ala_ind);
-                                        source_line=source_line.replaceAll(arg_i, "#"+ala_ind);
+                    map.put(arg_i, ala_ind);
+                    source_line=source_line.replaceAll(arg_i, "#"+ala_ind);
 					ala_ind++;
 				}
 				mdt.write(mdtc,source_line );

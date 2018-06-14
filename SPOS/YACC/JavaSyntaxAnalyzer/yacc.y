@@ -1,38 +1,37 @@
 %{
-#include<stdio.h>
-extern FILE *yyin;
+    #include <stdio.h>
+    extern FILE *yyin;
 %}
-%token IDN DT SEM COMMA EQU DIGIT BRACK NEW DOUBLE_Q ROUND_B
+%token KWD IDN SEM EQU NUM COMMA DOLLAR SQBKT NEW
 %%
-exp : start '\n' exp
-| start '\n'					{printf("Multiline matched\n");}
+expn: stmt DOLLAR expn {printf("expn found\n");}
+|stmt DOLLAR
 ;
-start : dt idn sem			{printf("valid\n");}
+stmt: kwd idn sem {printf("stmt found\n");}
+|kwd idn sqbkt sqbkt equ NEW kwd sqbkt NUM SQBKT sem
+|kwd idn sqbkt sqbkt sem {}
 ;
-dt : DT						{printf("Data type matched\n");}
-| dt BRACK					{printf("Data type and bracket mached\n");}
+kwd: KWD {printf("kwd found\n");}
 ;
-idn : IDN					{printf("Identifire matched\n");}
-| idn IDN					{printf("Identifire and identifire matched\n");}
-| idn COMMA IDN			{printf("Identifire and comma matched\n");}
-| idn EQU DIGIT				{printf("Equal and digit matched\n");}
-| idn BRACK					{printf("array diclaration bracket matched\n");}
-| idn EQU NEW				{printf("Equal and new matched\n");}
-| idn DT						{printf("identire and data type matched\n");}
-| idn DIGIT					{printf("identire and digit matched\n");}
-| idn EQU DOUBLE_Q		{printf("Equal and double quotes matched\n");}
-| idn DOUBLE_Q			{printf("identifire and double qoutes matched\n");}
-| idn ROUND_B				{printf("Identifire and round bracket matched\n");}
+idn: IDN {printf("iden found\n");}
+| idn EQU NUM
+| idn COMMA IDN
+|idn SQBKT SQBKT
 ;
-sem : SEM					{printf("Semicolon matched\n");}
+sem: SEM {printf("sem found\n");}
+;
+equ:EQU 
+;
+sqbkt: SQBKT{printf("sqbkt found");}
 ;
 %%
-void main()
-{
-	yyin=fopen("abc.txt","r");
+int main(){
+    yyin=fopen("abc.txt","r");
 	yyparse();
+    return 0;
 }
-int yyerror(char *s)
+
+void yyerror(char *s)
 {
 	printf("Error: %s",s);	
 }

@@ -1,0 +1,16 @@
+PRG1 START 100
+	 L 1,FIVE
+	 A 1,='3'
+	 SR 3,3
+	 L 5,2
+	 A 5,4
+	 ST 5,RES
+	 AR 5,5
+	 L 5,5
+	 S 5,=F'1'
+	 ST 5,RES1
+FIVE DC F'5'
+RES DS F
+RES1 DS 2H
+RES2 DS 3H
+	 END 	
