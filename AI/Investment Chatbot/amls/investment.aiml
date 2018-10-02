@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File:  investment.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: July 10, 2018 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2018 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>MY NAME IS *</pattern>
+<template>Hello <set name="username"> <star/>! </set> How can I help you?</template>
+</category>
+<category><pattern>BYE</pattern>
+<template>Goodbye <get name="username"/> It was nice to talk to you</template>
+</category>
+<category><pattern>I AM INTERESTED IN *</pattern>
+<template>Yes we can discuss <set name="topic"> <star/></set></template>
+</category>
+<category><pattern>LET US DISCUSS *</pattern>
+<template><srai>I am interested in <star/></srai></template>
+</category>
+<category><pattern>WHAT ARE DIFFERENT INVESTMENT OPTIONS</pattern>
+<template>Some of the investment options are Public provident fund Mutual fund Equity shares Real estate investment etc.</template>
+</category>
+<topic name="PUBLIC PROVIDENT FUND">
+<category><pattern>*</pattern>
+<template>It is the safest and secure long-term investment amongst the best options. It is tax-free. Under the PPF account opened the money get locked for the time of 15 years and you can earn compound interest. The only drawback is you are only allowed to withdraw your investment at the end of 6th year.</template>
+</category></topic>
+
+<topic name="MUTUAL FUND">
+<category><pattern>*</pattern>
+<template>People who want to invest in equities and bond with a balance of risk and return generally choose to invest in mutual funds. This plan will definitely give a much better return compared to any other investment option.</template>
+</category></topic>
+
+<topic name="EQUITY SHARES">
+<category><pattern>*</pattern>
+<template>Make sure you know how to analyze a share stock before going to buy direct equity or share. If the investment is for a long time for example more than 15 years it is somewhat sure that there will be higher return.</template>
+</category></topic>
+
+<topic name="REAL ESTATE">
+<category><pattern>*</pattern>
+<template>One of the fastest growing sectors is real estate holding the huge prospects in major sectors like housing commercial hospitality manufacturing retail and more. Buying a flat or plot is the best decision amongst the investment options. The risk is very low because the rate of property increases within 6 months.</template>
+</category></topic>
+
+<topic name="PUBLIC PROVIDENT FUND">
+<category><pattern>MINIMUM INVESTMENT AMOUNT</pattern>
+<template>It is 500/- (One FY)</template>
+</category></topic>
+
+<topic name="PUBLIC PROVIDENT FUND">
+<category><pattern>MAXIMUM INVESTMENT AMOUNT</pattern>
+<template>It is 150000/- (One FY)</template>
+</category></topic>
+
+<topic name="PUBLIC PROVIDENT FUND">
+<category><pattern>MINIMUM INVESTMENT PERIOD</pattern>
+<template>It is 15 years</template>
+</category></topic>
+
+<topic name="MUTUAL FUND">
+<category><pattern>MINIMUM INVESTMENT AMOUNT</pattern>
+<template>As low as 500</template>
+</category></topic>
+
+<topic name="MUTUAL FUND">
+<category><pattern>MAXIMUM INVESTMENT AMOUNT</pattern>
+<template>No limit</template>
+</category></topic>
+
+<topic name="MUTUAL FUND">
+<category><pattern>MINIMUM INVESTMENT PERIOD</pattern>
+<template>Only applicable in case of close-ended and ELSS schemes</template>
+</category></topic>
+
+<topic name="EQUITY SHARES">
+<category><pattern>MINIMUM INVESTMENT AMOUNT</pattern>
+<template>No limit</template>
+</category></topic>
+
+<topic name="EQUITY SHARES">
+<category><pattern>MAXIMUM INVESTMENT AMOUNT</pattern>
+<template>No limit</template>
+</category></topic>
+
+<topic name="EQUITY SHARES">
+<category><pattern>MINIMUM INVESTMENT PERIOD</pattern>
+<template>Not applicable in this case</template>
+</category></topic>
+
+<topic name="REAL ESTATE">
+<category><pattern>MINIMUM INVESTMENT AMOUNT</pattern>
+<template>No limit</template>
+</category></topic>
+
+<topic name="REAL ESTATE">
+<category><pattern>MAXIMUM INVESTMENT AMOUNT</pattern>
+<template>No limit</template>
+</category></topic>
+
+<topic name="REAL ESTATE">
+<category><pattern>MINIMUM INVESTMENT PERIOD</pattern>
+<template>Not applicable in this case</template>
+</category></topic>
+
+</aiml>
