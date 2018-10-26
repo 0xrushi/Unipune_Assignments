@@ -1,0 +1,1001 @@
+Duration,Startdate,Enddate,Startnumber,Start station,Endnumber,End station,Bike number,Membertype
+1012,20-09-10 11:27,20-09-10 11:43,31208,M St & New Jersey Ave SE,31108,4th & M St SW,W00742,Member
+61,20-09-10 11:41,20-09-10 11:42,31209,1st & N St  SE,31209,1st & N St  SE,W00032,Member
+2690,20-09-10 12:05,20-09-10 12:50,31600,5th & K St NW,31100,19th St & Pennsylvania Ave NW,W00993,Member
+1406,20-09-10 12:06,20-09-10 12:29,31600,5th & K St NW,31602,Park Rd & Holmead Pl NW,W00344,Member
+1413,20-09-10 12:10,20-09-10 12:34,31100,19th St & Pennsylvania Ave NW,31201,15th & P St NW,W00883,Member
+982,20-09-10 12:14,20-09-10 12:30,31109,7th & T St NW,31200,Massachusetts Ave & Dupont Circle NW,W00850,Member
+930,20-09-10 12:15,20-09-10 12:30,31109,7th & T St NW,31105,14th & Harvard St NW,W00804,Member
+1659,20-09-10 12:16,20-09-10 12:44,31111,10th & U St NW,31208,M St & New Jersey Ave SE,W01084,Member
+2496,20-09-10 12:18,20-09-10 13:00,31600,5th & K St NW,31601,19th & East Capitol St SE,W00812,Member
+1487,20-09-10 12:19,20-09-10 12:44,31703,Minnesota Ave Metro/DOES,31603,1st & M St NE,W00803,Member
+1007,20-09-10 12:21,20-09-10 12:38,31500,4th & W St NE,31200,Massachusetts Ave & Dupont Circle NW,W00256,Member
+1159,20-09-10 12:26,20-09-10 12:45,31603,1st & M St NE,31603,1st & M St NE,W01023,Member
+88,20-09-10 12:31,20-09-10 12:32,31602,Park Rd & Holmead Pl NW,31602,Park Rd & Holmead Pl NW,W00472,Member
+202,20-09-10 12:33,20-09-10 12:36,31105,14th & Harvard St NW,31103,16th & Harvard St NW,W00685,Member
+1407,20-09-10 12:39,20-09-10 13:02,31101,14th & V St NW,31100,19th St & Pennsylvania Ave NW,W00930,Member
+351,20-09-10 12:39,20-09-10 12:45,31103,16th & Harvard St NW,31104,Adams Mill & Columbia Rd NW,W00685,Member
+416,20-09-10 12:40,20-09-10 12:47,31105,14th & Harvard St NW,31207,Georgia Ave and Fairmont St NW,W00476,Member
+2988,20-09-10 12:41,20-09-10 13:31,31206,19th & E Street NW,31603,1st & M St NE,W00955,Member
+636,20-09-10 12:42,20-09-10 12:52,31002,20th & Crystal Dr,31003,15th & Crystal Dr,W01066,Member
+509,20-09-10 13:07,20-09-10 13:16,31205,21st & I St NW,31200,Massachusetts Ave & Dupont Circle NW,W00824,Member
+638,20-09-10 13:13,20-09-10 13:23,31201,15th & P St NW,31200,Massachusetts Ave & Dupont Circle NW,W00883,Member
+763,20-09-10 13:16,20-09-10 13:29,31602,Park Rd & Holmead Pl NW,31109,7th & T St NW,W01029,Member
+387,20-09-10 13:20,20-09-10 13:27,31009,27th & Crystal Dr,31009,27th & Crystal Dr,W00821,Member
+1409,20-09-10 13:22,20-09-10 13:46,31600,5th & K St NW,31100,19th St & Pennsylvania Ave NW,W00833,Member
+1254,20-09-10 13:27,20-09-10 13:48,31002,20th & Crystal Dr,31012,26th & S Clark St,W01123,Member
+1238,20-09-10 13:28,20-09-10 13:48,31002,20th & Crystal Dr,31012,26th & S Clark St,W01034,Member
+277,20-09-10 13:30,20-09-10 13:34,31106,Calvert & Biltmore St NW,31104,Adams Mill & Columbia Rd NW,W00796,Member
+1532,20-09-10 13:34,20-09-10 13:59,31200,Massachusetts Ave & Dupont Circle NW,31600,5th & K St NW,W00883,Member
+759,20-09-10 13:40,20-09-10 13:53,31104,Adams Mill & Columbia Rd NW,31202,14th & R St NW,W00796,Member
+433,20-09-10 13:55,20-09-10 14:02,31011,23rd & Crystal Dr,31011,23rd & Crystal Dr,W00764,Member
+329,20-09-10 14:18,20-09-10 14:24,31100,19th St & Pennsylvania Ave NW,31206,19th & E Street NW,W00868,Member
+775,20-09-10 14:23,20-09-10 14:36,31200,Massachusetts Ave & Dupont Circle NW,31602,Park Rd & Holmead Pl NW,W00775,Member
+3044,20-09-10 14:28,20-09-10 15:19,31100,19th St & Pennsylvania Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W00993,Casual
+1438,20-09-10 14:45,20-09-10 15:09,31000,Eads St & 15th St S,31002,20th & Crystal Dr,W00570,Casual
+597,20-09-10 14:49,20-09-10 14:59,31202,14th & R St NW,31200,Massachusetts Ave & Dupont Circle NW,W00796,Member
+1492,20-09-10 14:54,20-09-10 15:19,31603,1st & M St NE,31500,4th & W St NE,W01103,Member
+956,20-09-10 15:01,20-09-10 15:17,31101,14th & V St NW,31204,20th & E St NW,W01058,Member
+1185,20-09-10 15:05,20-09-10 15:25,31212,21st & M St NW,31212,21st & M St NW,W01069,Member
+127,20-09-10 15:08,20-09-10 15:10,31603,1st & M St NE,31603,1st & M St NE,?(0x000000004752DD3A),Member
+1207,20-09-10 15:24,20-09-10 15:44,31206,19th & E Street NW,31209,1st & N St  SE,W00868,Member
+2228,20-09-10 15:27,20-09-10 16:05,31104,Adams Mill & Columbia Rd NW,31209,1st & N St  SE,W00685,Member
+3820,20-09-10 15:29,20-09-10 16:33,31200,Massachusetts Ave & Dupont Circle NW,31206,19th & E Street NW,W00977,Casual
+1168,20-09-10 15:30,20-09-10 15:49,31100,19th St & Pennsylvania Ave NW,31600,5th & K St NW,W00930,Member
+566,20-09-10 15:35,20-09-10 15:45,31101,14th & V St NW,31207,Georgia Ave and Fairmont St NW,W00960,Member
+631,20-09-10 15:38,20-09-10 15:49,31111,10th & U St NW,31200,Massachusetts Ave & Dupont Circle NW,W00958,Member
+604,20-09-10 15:43,20-09-10 15:53,31100,19th St & Pennsylvania Ave NW,31203,14th & Rhode Island Ave NW,W00563,Casual
+1488,20-09-10 15:51,20-09-10 16:16,31208,M St & New Jersey Ave SE,31600,5th & K St NW,W01084,Member
+7275,20-09-10 15:57,20-09-10 17:58,31100,19th St & Pennsylvania Ave NW,31103,16th & Harvard St NW,W00976,Member
+1959,20-09-10 16:17,20-09-10 16:49,31200,Massachusetts Ave & Dupont Circle NW,31108,4th & M St SW,W00256,Casual
+310,20-09-10 16:21,20-09-10 16:26,31100,19th St & Pennsylvania Ave NW,31100,19th St & Pennsylvania Ave NW,W00159,Member
+407,20-09-10 16:22,20-09-10 16:29,31111,10th & U St NW,31201,15th & P St NW,W00642,Member
+1145,20-09-10 16:23,20-09-10 16:42,31003,15th & Crystal Dr,31009,27th & Crystal Dr,W00999,Casual
+730,20-09-10 16:29,20-09-10 16:41,31600,5th & K St NW,31202,14th & R St NW,W01084,Member
+907,20-09-10 16:31,20-09-10 16:46,31100,19th St & Pennsylvania Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W00842,Member
+1406,20-09-10 16:32,20-09-10 16:56,31600,5th & K St NW,31107,Lamont & Mt Pleasant NW,W00883,Member
+381,20-09-10 16:35,20-09-10 16:42,31200,Massachusetts Ave & Dupont Circle NW,31201,15th & P St NW,W00745,Member
+548,20-09-10 16:37,20-09-10 16:46,31200,Massachusetts Ave & Dupont Circle NW,31111,10th & U St NW,W00850,Member
+557,20-09-10 16:45,20-09-10 16:54,31009,27th & Crystal Dr,31002,20th & Crystal Dr,W01079,Casual
+855,20-09-10 16:51,20-09-10 17:05,31111,10th & U St NW,31104,Adams Mill & Columbia Rd NW,?(0x000000007C120F6A),Member
+1733,20-09-10 16:55,20-09-10 17:23,31802,Good Hope Rd & MLK Ave SE,31600,5th & K St NW,W00911,Member
+4954,20-09-10 16:56,20-09-10 18:18,31200,Massachusetts Ave & Dupont Circle NW,31200,Massachusetts Ave & Dupont Circle NW,W00322,Casual
+1283,20-09-10 16:57,20-09-10 17:18,31603,1st & M St NE,31600,5th & K St NW,W00829,Member
+385,20-09-10 16:57,20-09-10 17:04,31101,14th & V St NW,31105,14th & Harvard St NW,W00814,Member
+635,20-09-10 16:57,20-09-10 17:08,31200,Massachusetts Ave & Dupont Circle NW,31111,10th & U St NW,W00958,Member
+4839,20-09-10 16:58,20-09-10 18:18,31200,Massachusetts Ave & Dupont Circle NW,31200,Massachusetts Ave & Dupont Circle NW,W00993,Casual
+466,20-09-10 17:01,20-09-10 17:09,31200,Massachusetts Ave & Dupont Circle NW,31201,15th & P St NW,W00824,Member
+892,20-09-10 17:16,20-09-10 17:31,31201,15th & P St NW,31600,5th & K St NW,W01113,Casual
+451,20-09-10 17:16,20-09-10 17:24,31111,10th & U St NW,31201,15th & P St NW,W00850,Member
+315,20-09-10 17:17,20-09-10 17:23,31109,7th & T St NW,31111,10th & U St NW,W00569,Member
+1796,20-09-10 17:31,20-09-10 18:01,31208,M St & New Jersey Ave SE,31204,20th & E St NW,W00428,Member
+474,20-09-10 17:33,20-09-10 17:41,31111,10th & U St NW,31201,15th & P St NW,W01050,Member
+1037,20-09-10 17:35,20-09-10 17:53,31602,Park Rd & Holmead Pl NW,31400,Georgia & New Hampshire Ave NW,W00903,Member
+729,20-09-10 17:38,20-09-10 17:50,31600,5th & K St NW,31202,14th & R St NW,W00829,Member
+466,20-09-10 17:41,20-09-10 17:49,31100,19th St & Pennsylvania Ave NW,31201,15th & P St NW,W00968,Member
+1440,20-09-10 17:41,20-09-10 18:05,31104,Adams Mill & Columbia Rd NW,31205,21st & I St NW,?(0x000000007C120F6A),Member
+507,20-09-10 17:44,20-09-10 17:53,31108,4th & M St SW,31208,M St & New Jersey Ave SE,W01007,Member
+1811,20-09-10 17:46,20-09-10 18:16,31203,14th & Rhode Island Ave NW,31203,14th & Rhode Island Ave NW,W00563,Member
+959,20-09-10 17:47,20-09-10 18:03,31208,M St & New Jersey Ave SE,31208,M St & New Jersey Ave SE,W00826,Member
+1576,20-09-10 17:50,20-09-10 18:17,31603,1st & M St NE,31105,14th & Harvard St NW,W00340,Member
+462,20-09-10 17:51,20-09-10 17:58,31200,Massachusetts Ave & Dupont Circle NW,31100,19th St & Pennsylvania Ave NW,W00842,Member
+413,20-09-10 17:51,20-09-10 17:58,31108,4th & M St SW,31208,M St & New Jersey Ave SE,W01024,Member
+626,20-09-10 17:52,20-09-10 18:03,31201,15th & P St NW,31111,10th & U St NW,W00968,Member
+595,20-09-10 17:54,20-09-10 18:04,31111,10th & U St NW,31600,5th & K St NW,W00958,Member
+1382,20-09-10 17:55,20-09-10 18:18,31204,20th & E St NW,31600,5th & K St NW,W01058,Member
+220,20-09-10 17:55,20-09-10 17:59,31106,Calvert & Biltmore St NW,31104,Adams Mill & Columbia Rd NW,W00830,Member
+1159,20-09-10 17:56,20-09-10 18:15,31600,5th & K St NW,31200,Massachusetts Ave & Dupont Circle NW,W01113,Casual
+1241,20-09-10 17:56,20-09-10 18:17,31602,Park Rd & Holmead Pl NW,31100,19th St & Pennsylvania Ave NW,W00344,Member
+375,20-09-10 17:57,20-09-10 18:03,31109,7th & T St NW,31207,Georgia Ave and Fairmont St NW,W00196,Member
+940,20-09-10 17:59,20-09-10 18:14,31202,14th & R St NW,31202,14th & R St NW,W00512,Member
+419,20-09-10 18:01,20-09-10 18:08,31009,27th & Crystal Dr,31004,Aurora Hills Community Ctr/18th & Hayes St,W00821,Member
+893,20-09-10 18:01,20-09-10 18:16,31100,19th St & Pennsylvania Ave NW,31600,5th & K St NW,W00377,Member
+142,20-09-10 18:03,20-09-10 18:06,31201,15th & P St NW,31203,14th & Rhode Island Ave NW,W01050,Member
+1879,20-09-10 18:04,20-09-10 18:35,31201,15th & P St NW,31207,Georgia Ave and Fairmont St NW,W00850,Member
+2060,20-09-10 18:05,20-09-10 18:39,31103,16th & Harvard St NW,31103,16th & Harvard St NW,W00976,Member
+2550,20-09-10 18:09,20-09-10 18:51,31205,21st & I St NW,31205,21st & I St NW,W00747,Member
+945,20-09-10 18:09,20-09-10 18:25,31205,21st & I St NW,31202,14th & R St NW,W00142,Member
+1864,20-09-10 18:12,20-09-10 18:43,31203,14th & Rhode Island Ave NW,31111,10th & U St NW,W01050,Member
+415,20-09-10 18:14,20-09-10 18:20,31200,Massachusetts Ave & Dupont Circle NW,31104,Adams Mill & Columbia Rd NW,W00796,Member
+534,20-09-10 18:14,20-09-10 18:23,31201,15th & P St NW,31111,10th & U St NW,W00777,Member
+1864,20-09-10 18:15,20-09-10 18:47,31201,15th & P St NW,31209,1st & N St  SE,W00824,Member
+1834,20-09-10 18:16,20-09-10 18:46,31201,15th & P St NW,31209,1st & N St  SE,W00642,Member
+500,20-09-10 18:17,20-09-10 18:25,31201,15th & P St NW,31110,20th St & Florida Ave NW,W00745,Member
+1640,20-09-10 18:18,20-09-10 18:46,31205,21st & I St NW,31006,S Joyce & Army Navy Dr,?(0x000000007C120F6A),Member
+868,20-09-10 18:20,20-09-10 18:35,31202,14th & R St NW,31111,10th & U St NW,W00614,Member
+400,20-09-10 18:20,20-09-10 18:27,31106,Calvert & Biltmore St NW,31103,16th & Harvard St NW,W00795,Member
+245,20-09-10 18:21,20-09-10 18:25,31203,14th & Rhode Island Ave NW,31201,15th & P St NW,W00289,Member
+583,20-09-10 18:25,20-09-10 18:35,31200,Massachusetts Ave & Dupont Circle NW,31101,14th & V St NW,W00322,Member
+199,20-09-10 18:28,20-09-10 18:31,31011,23rd & Crystal Dr,31009,27th & Crystal Dr,W00735,Member
+194,20-09-10 18:28,20-09-10 18:32,31011,23rd & Crystal Dr,31009,27th & Crystal Dr,W00764,Member
+1455,20-09-10 18:29,20-09-10 18:53,31600,5th & K St NW,31111,10th & U St NW,W00958,Member
+638,20-09-10 18:31,20-09-10 18:41,31100,19th St & Pennsylvania Ave NW,31110,20th St & Florida Ave NW,W00344,Member
+259,20-09-10 18:34,20-09-10 18:38,31104,Adams Mill & Columbia Rd NW,31110,20th St & Florida Ave NW,W00796,Member
+521,20-09-10 18:35,20-09-10 18:43,31600,5th & K St NW,31201,15th & P St NW,W00930,Member
+169,20-09-10 18:40,20-09-10 18:43,31203,14th & Rhode Island Ave NW,31202,14th & R St NW,W00563,Member
+7554,20-09-10 18:42,20-09-10 20:47,31105,14th & Harvard St NW,31105,14th & Harvard St NW,W01059,Casual
+7512,20-09-10 18:42,20-09-10 20:47,31105,14th & Harvard St NW,31105,14th & Harvard St NW,W00804,Casual
+793,20-09-10 18:42,20-09-10 18:55,31200,Massachusetts Ave & Dupont Circle NW,31111,10th & U St NW,W00993,Member
+132,20-09-10 18:43,20-09-10 18:45,31201,15th & P St NW,31203,14th & Rhode Island Ave NW,W00289,Member
+235,20-09-10 18:44,20-09-10 18:48,31201,15th & P St NW,31202,14th & R St NW,W00930,Member
+375,20-09-10 18:48,20-09-10 18:54,31011,23rd & Crystal Dr,31003,15th & Crystal Dr,W01016,Member
+768,20-09-10 18:48,20-09-10 19:01,31108,4th & M St SW,31208,M St & New Jersey Ave SE,W00872,Member
+849,20-09-10 18:51,20-09-10 19:05,31001,18th & Eads St.,31001,18th & Eads St.,W00758,Member
+509,20-09-10 18:52,20-09-10 19:01,31110,20th St & Florida Ave NW,31104,Adams Mill & Columbia Rd NW,W00344,Member
+486,20-09-10 18:52,20-09-10 19:00,31110,20th St & Florida Ave NW,31104,Adams Mill & Columbia Rd NW,W00796,Member
+692,20-09-10 18:52,20-09-10 19:04,31602,Park Rd & Holmead Pl NW,31201,15th & P St NW,W00472,Member
+668,20-09-10 18:52,20-09-10 19:04,31100,19th St & Pennsylvania Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W00842,Member
+550,20-09-10 18:56,20-09-10 19:05,31600,5th & K St NW,31201,15th & P St NW,W00605,Member
+952,20-09-10 18:59,20-09-10 19:15,31200,Massachusetts Ave & Dupont Circle NW,31600,5th & K St NW,W01113,Casual
+790,20-09-10 19:02,20-09-10 19:15,31101,14th & V St NW,31200,Massachusetts Ave & Dupont Circle NW,W00772,Member
+1107,20-09-10 19:04,20-09-10 19:22,31110,20th St & Florida Ave NW,31110,20th St & Florida Ave NW,W00745,Member
+302,20-09-10 19:04,20-09-10 19:09,31202,14th & R St NW,31203,14th & Rhode Island Ave NW,W00563,Member
+1072,20-09-10 19:06,20-09-10 19:24,31603,1st & M St NE,31502,John McCormack Dr & Michigan Ave NE,W00803,Member
+382,20-09-10 19:07,20-09-10 19:14,31200,Massachusetts Ave & Dupont Circle NW,31201,15th & P St NW,W00842,Member
+1136,20-09-10 19:14,20-09-10 19:33,31401,14th St & Spring Rd NW,31201,15th & P St NW,W00318,Casual
+1545,20-09-10 19:14,20-09-10 19:40,31207,Georgia Ave and Fairmont St NW,31104,Adams Mill & Columbia Rd NW,W00960,Member
+1189,20-09-10 19:17,20-09-10 19:36,31100,19th St & Pennsylvania Ave NW,31111,10th & U St NW,W00159,Member
+1389,20-09-10 19:18,20-09-10 19:41,31603,1st & M St NE,31107,Lamont & Mt Pleasant NW,W00928,Member
+146,20-09-10 19:18,20-09-10 19:20,31104,Adams Mill & Columbia Rd NW,31106,Calvert & Biltmore St NW,W00796,Member
+1733,20-09-10 19:22,20-09-10 19:50,31200,Massachusetts Ave & Dupont Circle NW,31104,Adams Mill & Columbia Rd NW,W00772,Member
+304,20-09-10 19:22,20-09-10 19:27,31201,15th & P St NW,31201,15th & P St NW,W00842,Member
+2325,20-09-10 19:23,20-09-10 20:02,31106,Calvert & Biltmore St NW,31200,Massachusetts Ave & Dupont Circle NW,W00867,Casual
+2314,20-09-10 19:23,20-09-10 20:02,31106,Calvert & Biltmore St NW,31200,Massachusetts Ave & Dupont Circle NW,W00380,Casual
+961,20-09-10 19:25,20-09-10 19:41,31205,21st & I St NW,31200,Massachusetts Ave & Dupont Circle NW,W01008,Casual
+668,20-09-10 19:26,20-09-10 19:37,31201,15th & P St NW,31111,10th & U St NW,W00472,Member
+2467,20-09-10 19:26,20-09-10 20:07,31000,Eads St & 15th St S,31007,Crystal City Metro / 18th & Bell St,W00819,Casual
+827,20-09-10 19:27,20-09-10 19:41,31205,21st & I St NW,31200,Massachusetts Ave & Dupont Circle NW,W00747,Casual
+487,20-09-10 19:28,20-09-10 19:36,31208,M St & New Jersey Ave SE,31108,4th & M St SW,W01024,Member
+1041,20-09-10 19:29,20-09-10 19:46,31100,19th St & Pennsylvania Ave NW,31107,Lamont & Mt Pleasant NW,W00194,Member
+4532,20-09-10 19:43,20-09-10 20:58,31101,14th & V St NW,31203,14th & Rhode Island Ave NW,W00322,Casual
+1427,20-09-10 19:44,20-09-10 20:08,31603,1st & M St NE,31603,1st & M St NE,W00873,Member
+68,20-09-10 19:44,20-09-10 19:45,31111,10th & U St NW,31111,10th & U St NW,W01050,Member
+850,20-09-10 19:46,20-09-10 20:00,31111,10th & U St NW,31110,20th St & Florida Ave NW,W00159,Member
+490,20-09-10 19:47,20-09-10 19:55,31110,20th St & Florida Ave NW,31104,Adams Mill & Columbia Rd NW,W00745,Member
+1035,20-09-10 19:51,20-09-10 20:08,31603,1st & M St NE,31603,1st & M St NE,W00973,Member
+1322,20-09-10 19:51,20-09-10 20:13,31201,15th & P St NW,31401,14th St & Spring Rd NW,W00318,Casual
+752,20-09-10 19:53,20-09-10 20:06,31005,Pentagon City Metro / 12th & S Hayes St,31010,S Glebe & Potomac Ave,W00961,Member
+767,20-09-10 19:53,20-09-10 20:06,31005,Pentagon City Metro / 12th & S Hayes St,31010,S Glebe & Potomac Ave,W01018,Member
+484,20-09-10 19:56,20-09-10 20:04,31104,Adams Mill & Columbia Rd NW,31101,14th & V St NW,W00772,Member
+296,20-09-10 19:57,20-09-10 20:02,31400,Georgia & New Hampshire Ave NW,31401,14th St & Spring Rd NW,W00860,Casual
+961,20-09-10 19:57,20-09-10 20:13,31201,15th & P St NW,31205,21st & I St NW,W00605,Casual
+914,20-09-10 19:58,20-09-10 20:13,31201,15th & P St NW,31205,21st & I St NW,W00842,Casual
+649,20-09-10 20:02,20-09-10 20:13,31107,Lamont & Mt Pleasant NW,31106,Calvert & Biltmore St NW,W00194,Member
+915,20-09-10 20:04,20-09-10 20:19,31200,Massachusetts Ave & Dupont Circle NW,31101,14th & V St NW,W00867,Casual
+347,20-09-10 20:05,20-09-10 20:11,31104,Adams Mill & Columbia Rd NW,31200,Massachusetts Ave & Dupont Circle NW,W00344,Member
+347,20-09-10 20:05,20-09-10 20:11,31104,Adams Mill & Columbia Rd NW,31200,Massachusetts Ave & Dupont Circle NW,W00830,Member
+513,20-09-10 20:05,20-09-10 20:14,31600,5th & K St NW,31203,14th & Rhode Island Ave NW,W00911,Member
+293,20-09-10 20:06,20-09-10 20:11,31202,14th & R St NW,31101,14th & V St NW,W01084,Member
+357,20-09-10 20:07,20-09-10 20:13,31111,10th & U St NW,31101,14th & V St NW,W00968,Member
+636,20-09-10 20:10,20-09-10 20:21,31110,20th St & Florida Ave NW,31111,10th & U St NW,W00159,Member
+1669,20-09-10 20:10,20-09-10 20:38,31600,5th & K St NW,31105,14th & Harvard St NW,W01113,Member
+988,20-09-10 20:11,20-09-10 20:27,31200,Massachusetts Ave & Dupont Circle NW,31200,Massachusetts Ave & Dupont Circle NW,W00380,Member
+365,20-09-10 20:14,20-09-10 20:20,31111,10th & U St NW,31203,14th & Rhode Island Ave NW,W01050,Member
+2564,20-09-10 20:15,20-09-10 20:57,31111,10th & U St NW,31111,10th & U St NW,W00569,Member
+204,20-09-10 20:19,20-09-10 20:22,31106,Calvert & Biltmore St NW,31106,Calvert & Biltmore St NW,W00796,Member
+1186,20-09-10 20:24,20-09-10 20:43,31204,20th & E St NW,31110,20th St & Florida Ave NW,W00428,Member
+3841,20-09-10 20:28,20-09-10 21:32,31108,4th & M St SW,31108,4th & M St SW,W01024,Casual
+3728,20-09-10 20:30,20-09-10 21:32,31108,4th & M St SW,31108,4th & M St SW,W00959,Casual
+278,20-09-10 20:36,20-09-10 20:40,31106,Calvert & Biltmore St NW,31104,Adams Mill & Columbia Rd NW,W00796,Member
+148,20-09-10 20:49,20-09-10 20:52,31602,Park Rd & Holmead Pl NW,31602,Park Rd & Holmead Pl NW,W00775,Member
+433,20-09-10 20:50,20-09-10 20:57,31203,14th & Rhode Island Ave NW,31600,5th & K St NW,W00289,Member
+1239,20-09-10 20:52,20-09-10 21:13,31103,16th & Harvard St NW,31107,Lamont & Mt Pleasant NW,W00948,Member
+260,20-09-10 20:53,20-09-10 20:57,31101,14th & V St NW,31203,14th & Rhode Island Ave NW,W01067,Member
+786,20-09-10 20:54,20-09-10 21:08,31010,S Glebe & Potomac Ave,31004,Aurora Hills Community Ctr/18th & Hayes St,W00961,Member
+791,20-09-10 20:54,20-09-10 21:08,31010,S Glebe & Potomac Ave,31004,Aurora Hills Community Ctr/18th & Hayes St,W01018,Member
+863,20-09-10 21:03,20-09-10 21:17,31011,23rd & Crystal Dr,31006,S Joyce & Army Navy Dr,W00760,Casual
+271,20-09-10 21:04,20-09-10 21:09,31007,Crystal City Metro / 18th & Bell St,31009,27th & Crystal Dr,W00509,Casual
+525,20-09-10 21:07,20-09-10 21:16,31012,26th & S Clark St,31010,S Glebe & Potomac Ave,W01034,Member
+359,20-09-10 21:12,20-09-10 21:18,31103,16th & Harvard St NW,31103,16th & Harvard St NW,W00795,Member
+475,20-09-10 21:14,20-09-10 21:22,31205,21st & I St NW,31200,Massachusetts Ave & Dupont Circle NW,W00842,Member
+3722,20-09-10 21:15,20-09-10 22:18,31209,1st & N St  SE,31007,Crystal City Metro / 18th & Bell St,W01083,Member
+384,20-09-10 21:16,20-09-10 21:22,31200,Massachusetts Ave & Dupont Circle NW,31203,14th & Rhode Island Ave NW,W00380,Member
+1122,20-09-10 21:24,20-09-10 21:43,31401,14th St & Spring Rd NW,31202,14th & R St NW,W00318,Member
+1620,20-09-10 21:28,20-09-10 21:55,31209,1st & N St  SE,31203,14th & Rhode Island Ave NW,W00032,Member
+1593,20-09-10 21:28,20-09-10 21:54,31209,1st & N St  SE,31203,14th & Rhode Island Ave NW,W01030,Member
+1088,20-09-10 21:28,20-09-10 21:46,31200,Massachusetts Ave & Dupont Circle NW,31207,Georgia Ave and Fairmont St NW,W00747,Member
+507,20-09-10 21:32,20-09-10 21:41,31010,S Glebe & Potomac Ave,31011,23rd & Crystal Dr,W01034,Member
+491,20-09-10 21:33,20-09-10 21:41,31006,S Joyce & Army Navy Dr,31011,23rd & Crystal Dr,W00760,Casual
+629,20-09-10 21:38,20-09-10 21:48,31104,Adams Mill & Columbia Rd NW,31207,Georgia Ave and Fairmont St NW,W00745,Member
+378,20-09-10 21:39,20-09-10 21:45,31104,Adams Mill & Columbia Rd NW,31105,14th & Harvard St NW,W00796,Casual
+544,20-09-10 21:45,20-09-10 21:54,31101,14th & V St NW,31207,Georgia Ave and Fairmont St NW,W00772,Member
+1463,20-09-10 21:50,20-09-10 22:14,31203,14th & Rhode Island Ave NW,31401,14th St & Spring Rd NW,W00380,Member
+349,20-09-10 21:58,20-09-10 22:04,31400,Georgia & New Hampshire Ave NW,31401,14th St & Spring Rd NW,W00903,Member
+5854,20-09-10 22:06,20-09-10 23:43,31200,Massachusetts Ave & Dupont Circle NW,31205,21st & I St NW,W00842,Casual
+5839,20-09-10 22:06,20-09-10 23:43,31200,Massachusetts Ave & Dupont Circle NW,31205,21st & I St NW,W01008,Casual
+696,20-09-10 22:12,20-09-10 22:23,31401,14th St & Spring Rd NW,31101,14th & V St NW,W00903,Member
+1593,20-09-10 22:20,20-09-10 22:46,31600,5th & K St NW,31201,15th & P St NW,W00289,Member
+1638,20-09-10 22:42,20-09-10 23:09,31206,19th & E Street NW,31109,7th & T St NW,W00555,Member
+224,20-09-10 23:06,20-09-10 23:10,31200,Massachusetts Ave & Dupont Circle NW,31200,Massachusetts Ave & Dupont Circle NW,W00830,Member
+528,20-09-10 23:17,20-09-10 23:25,31004,Aurora Hills Community Ctr/18th & Hayes St,31006,S Joyce & Army Navy Dr,W00961,Member
+817,20-09-10 23:30,20-09-10 23:44,31006,S Joyce & Army Navy Dr,31011,23rd & Crystal Dr,?(0x000000007C120F6A),Member
+267,20-09-10 23:44,20-09-10 23:48,31602,Park Rd & Holmead Pl NW,31101,14th & V St NW,W00775,Member
+764,20-09-10 23:51,21-09-10 0:04,31002,20th & Crystal Dr,31005,Pentagon City Metro / 12th & S Hayes St,W01000,Member
+783,21-09-10 0:07,21-09-10 0:20,31001,18th & Eads St.,31004,Aurora Hills Community Ctr/18th & Hayes St,W00825,Member
+792,21-09-10 0:18,21-09-10 0:32,31101,14th & V St NW,31400,Georgia & New Hampshire Ave NW,W00968,Member
+485,21-09-10 6:45,21-09-10 6:53,31207,Georgia Ave and Fairmont St NW,31101,14th & V St NW,W00772,Member
+1191,21-09-10 6:49,21-09-10 7:09,31003,15th & Crystal Dr,31003,15th & Crystal Dr,W00807,Casual
+489,21-09-10 6:51,21-09-10 6:59,31400,Georgia & New Hampshire Ave NW,31101,14th & V St NW,W00838,Member
+503,21-09-10 7:09,21-09-10 7:17,31200,Massachusetts Ave & Dupont Circle NW,31204,20th & E St NW,W00830,Member
+6030,21-09-10 7:21,21-09-10 9:02,31101,14th & V St NW,31201,15th & P St NW,W00903,Member
+1366,21-09-10 7:23,21-09-10 7:46,31109,7th & T St NW,31206,19th & E Street NW,W00555,Member
+996,21-09-10 7:24,21-09-10 7:41,31107,Lamont & Mt Pleasant NW,31100,19th St & Pennsylvania Ave NW,W00948,Casual
+585,21-09-10 7:41,21-09-10 7:51,31200,Massachusetts Ave & Dupont Circle NW,31205,21st & I St NW,W00344,Member
+473,21-09-10 7:48,21-09-10 7:55,31203,14th & Rhode Island Ave NW,31100,19th St & Pennsylvania Ave NW,W01050,Member
+620,21-09-10 8:02,21-09-10 8:13,31603,1st & M St NE,31203,14th & Rhode Island Ave NW,W00873,Member
+418,21-09-10 8:03,21-09-10 8:09,31207,Georgia Ave and Fairmont St NW,31101,14th & V St NW,W00745,Member
+480,21-09-10 8:04,21-09-10 8:12,31401,14th St & Spring Rd NW,31101,14th & V St NW,W00734,Member
+656,21-09-10 8:06,21-09-10 8:17,31103,16th & Harvard St NW,31200,Massachusetts Ave & Dupont Circle NW,W00795,Member
+896,21-09-10 8:07,21-09-10 8:22,31104,Adams Mill & Columbia Rd NW,31204,20th & E St NW,W01069,Casual
+369,21-09-10 8:13,21-09-10 8:19,31208,M St & New Jersey Ave SE,31108,4th & M St SW,W00826,Member
+254,21-09-10 8:17,21-09-10 8:21,31101,14th & V St NW,31203,14th & Rhode Island Ave NW,W00772,Member
+3022,21-09-10 8:18,21-09-10 9:09,31600,5th & K St NW,31205,21st & I St NW,W00557,Member
+554,21-09-10 8:19,21-09-10 8:28,31007,Crystal City Metro / 18th & Bell St,31009,27th & Crystal Dr,W00819,Member
+513,21-09-10 8:21,21-09-10 8:30,31103,16th & Harvard St NW,31200,Massachusetts Ave & Dupont Circle NW,W00976,Member
+1758,21-09-10 8:26,21-09-10 8:55,31110,20th St & Florida Ave NW,31100,19th St & Pennsylvania Ave NW,W00198,Casual
+591,21-09-10 8:28,21-09-10 8:37,31203,14th & Rhode Island Ave NW,31600,5th & K St NW,W01030,Member
+327,21-09-10 8:34,21-09-10 8:40,31101,14th & V St NW,31203,14th & Rhode Island Ave NW,W00918,Member
+133,21-09-10 8:37,21-09-10 8:39,31103,16th & Harvard St NW,31103,16th & Harvard St NW,W00039,Member
+191,21-09-10 8:37,21-09-10 8:40,31201,15th & P St NW,31202,14th & R St NW,W01070,Member
+309,21-09-10 8:37,21-09-10 8:42,31107,Lamont & Mt Pleasant NW,31104,Adams Mill & Columbia Rd NW,W00971,Member
+712,21-09-10 8:39,21-09-10 8:51,31201,15th & P St NW,31205,21st & I St NW,W01063,Member
+2140,21-09-10 8:39,21-09-10 9:15,31110,20th St & Florida Ave NW,31204,20th & E St NW,W00428,Casual
+914,21-09-10 8:40,21-09-10 8:55,31105,14th & Harvard St NW,31205,21st & I St NW,W01059,Member
+554,21-09-10 8:41,21-09-10 8:50,31111,10th & U St NW,31200,Massachusetts Ave & Dupont Circle NW,W00614,Member
+874,21-09-10 8:42,21-09-10 8:56,31111,10th & U St NW,31200,Massachusetts Ave & Dupont Circle NW,W00777,Member
+2274,21-09-10 8:45,21-09-10 9:23,31103,16th & Harvard St NW,31206,19th & E Street NW,W00039,Member
+392,21-09-10 8:45,21-09-10 8:51,31200,Massachusetts Ave & Dupont Circle NW,31100,19th St & Pennsylvania Ave NW,W00976,Member
+969,21-09-10 8:48,21-09-10 9:04,31105,14th & Harvard St NW,31600,5th & K St NW,W01113,Member
+480,21-09-10 8:55,21-09-10 9:03,31201,15th & P St NW,31200,Massachusetts Ave & Dupont Circle NW,W00289,Member
+267,21-09-10 9:01,21-09-10 9:05,31203,14th & Rhode Island Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W00322,Member
+465,21-09-10 9:03,21-09-10 9:11,31110,20th St & Florida Ave NW,31203,14th & Rhode Island Ave NW,W00519,Member
+451,21-09-10 9:04,21-09-10 9:12,31602,Park Rd & Holmead Pl NW,31105,14th & Harvard St NW,W00858,Member
+298,21-09-10 9:07,21-09-10 9:12,31201,15th & P St NW,31101,14th & V St NW,W00903,Member
+1595,21-09-10 9:12,21-09-10 9:38,31105,14th & Harvard St NW,31203,14th & Rhode Island Ave NW,W00804,Member
+1208,21-09-10 9:18,21-09-10 9:38,31105,14th & Harvard St NW,31203,14th & Rhode Island Ave NW,W00340,Member
+1035,21-09-10 9:18,21-09-10 9:35,31205,21st & I St NW,31104,Adams Mill & Columbia Rd NW,W00344,Member
+1714,21-09-10 9:19,21-09-10 9:47,31103,16th & Harvard St NW,31100,19th St & Pennsylvania Ave NW,W00780,Casual
+759,21-09-10 9:19,21-09-10 9:32,31111,10th & U St NW,31200,Massachusetts Ave & Dupont Circle NW,W00993,Member
+149,21-09-10 9:20,21-09-10 9:23,31104,Adams Mill & Columbia Rd NW,31106,Calvert & Biltmore St NW,W00971,Member
+2448,21-09-10 9:21,21-09-10 10:02,31111,10th & U St NW,31108,4th & M St SW,W00958,Casual
+751,21-09-10 9:21,21-09-10 9:34,31400,Georgia & New Hampshire Ave NW,31201,15th & P St NW,W00968,Member
+736,21-09-10 9:26,21-09-10 9:39,31200,Massachusetts Ave & Dupont Circle NW,31100,19th St & Pennsylvania Ave NW,W00523,Member
+312,21-09-10 9:28,21-09-10 9:33,31201,15th & P St NW,31200,Massachusetts Ave & Dupont Circle NW,W01101,Member
+81,21-09-10 9:37,21-09-10 9:38,31008,12th & Army Navy Dr,31008,12th & Army Navy Dr,W00637,Member
+1352,21-09-10 9:42,21-09-10 10:05,31107,Lamont & Mt Pleasant NW,31600,5th & K St NW,W00928,Member
+1200,21-09-10 9:43,21-09-10 10:03,31200,Massachusetts Ave & Dupont Circle NW,31203,14th & Rhode Island Ave NW,W00743,Member
+3821,21-09-10 9:47,21-09-10 10:50,31101,14th & V St NW,31600,5th & K St NW,W01084,Member
+303,21-09-10 9:54,21-09-10 9:59,31201,15th & P St NW,31200,Massachusetts Ave & Dupont Circle NW,W00968,Member
+896,21-09-10 9:56,21-09-10 10:11,31600,5th & K St NW,31100,19th St & Pennsylvania Ave NW,W01058,Member
+725,21-09-10 9:56,21-09-10 10:08,31100,19th St & Pennsylvania Ave NW,31203,14th & Rhode Island Ave NW,W00948,Casual
+1054,21-09-10 9:58,21-09-10 10:16,31105,14th & Harvard St NW,31200,Massachusetts Ave & Dupont Circle NW,W00814,Casual
+491,21-09-10 10:24,21-09-10 10:32,31203,14th & Rhode Island Ave NW,31600,5th & K St NW,W00873,Member
+1268,21-09-10 10:27,21-09-10 10:48,31107,Lamont & Mt Pleasant NW,31205,21st & I St NW,W00883,Casual
+2713,21-09-10 10:28,21-09-10 11:13,31007,Crystal City Metro / 18th & Bell St,31209,1st & N St  SE,W00868,Member
+1750,21-09-10 10:30,21-09-10 11:00,31207,Georgia Ave and Fairmont St NW,31205,21st & I St NW,W00476,Member
+903,21-09-10 10:31,21-09-10 10:46,31109,7th & T St NW,31600,5th & K St NW,W01029,Member
+792,21-09-10 10:32,21-09-10 10:46,31400,Georgia & New Hampshire Ave NW,31104,Adams Mill & Columbia Rd NW,W00773,Member
+3452,21-09-10 10:43,21-09-10 11:40,31104,Adams Mill & Columbia Rd NW,31200,Massachusetts Ave & Dupont Circle NW,W00526,Casual
+805,21-09-10 10:47,21-09-10 11:00,31105,14th & Harvard St NW,31200,Massachusetts Ave & Dupont Circle NW,W00796,Member
+148,21-09-10 10:53,21-09-10 10:56,31202,14th & R St NW,31201,15th & P St NW,W00648,Member
+278,21-09-10 10:54,21-09-10 10:59,31104,Adams Mill & Columbia Rd NW,31104,Adams Mill & Columbia Rd NW,W00960,Member
+1193,21-09-10 10:56,21-09-10 11:16,31104,Adams Mill & Columbia Rd NW,31603,1st & M St NE,W00773,Member
+3238,21-09-10 10:58,21-09-10 11:52,31110,20th St & Florida Ave NW,31100,19th St & Pennsylvania Ave NW,W00566,Casual
+3049,21-09-10 11:02,21-09-10 11:52,31110,20th St & Florida Ave NW,31100,19th St & Pennsylvania Ave NW,W00639,Casual
+5478,21-09-10 11:09,21-09-10 12:40,31110,20th St & Florida Ave NW,31600,5th & K St NW,W00281,Casual
+5458,21-09-10 11:09,21-09-10 12:40,31110,20th St & Florida Ave NW,31600,5th & K St NW,W00471,Casual
+403,21-09-10 11:09,21-09-10 11:16,31203,14th & Rhode Island Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W00032,Member
+350,21-09-10 11:25,21-09-10 11:31,31011,23rd & Crystal Dr,31010,S Glebe & Potomac Ave,?(0x000000007C120F6A),Member
+695,21-09-10 11:27,21-09-10 11:38,31007,Crystal City Metro / 18th & Bell St,31010,S Glebe & Potomac Ave,W00996,Member
+1251,21-09-10 11:41,21-09-10 12:02,31603,1st & M St NE,31200,Massachusetts Ave & Dupont Circle NW,W00773,Member
+599,21-09-10 11:43,21-09-10 11:53,31200,Massachusetts Ave & Dupont Circle NW,31201,15th & P St NW,W01101,Casual
+579,21-09-10 11:43,21-09-10 11:53,31200,Massachusetts Ave & Dupont Circle NW,31201,15th & P St NW,W00614,Member
+551,21-09-10 11:46,21-09-10 11:56,31010,S Glebe & Potomac Ave,31002,20th & Crystal Dr,?(0x000000007C120F6A),Member
+288,21-09-10 11:47,21-09-10 11:52,31010,S Glebe & Potomac Ave,31012,26th & S Clark St,W00707,Member
+780,21-09-10 11:53,21-09-10 12:06,31200,Massachusetts Ave & Dupont Circle NW,31204,20th & E St NW,W00814,Member
+981,21-09-10 11:53,21-09-10 12:10,31600,5th & K St NW,31100,19th St & Pennsylvania Ave NW,W00873,Member
+1754,21-09-10 11:56,21-09-10 12:26,31603,1st & M St NE,31603,1st & M St NE,?(0x000000004752DD3A),Member
+211,21-09-10 11:58,21-09-10 12:02,31106,Calvert & Biltmore St NW,31104,Adams Mill & Columbia Rd NW,W00971,Member
+1436,21-09-10 11:59,21-09-10 12:23,31110,20th St & Florida Ave NW,31205,21st & I St NW,W00492,Casual
+6354,21-09-10 12:03,21-09-10 13:49,31110,20th St & Florida Ave NW,31600,5th & K St NW,W00491,Casual
+1322,21-09-10 12:09,21-09-10 12:31,31208,M St & New Jersey Ave SE,31208,M St & New Jersey Ave SE,W00886,Member
+750,21-09-10 12:16,21-09-10 12:29,31205,21st & I St NW,31200,Massachusetts Ave & Dupont Circle NW,W00910,Member
+2343,21-09-10 12:20,21-09-10 12:59,31206,19th & E Street NW,31206,19th & E Street NW,W00039,Casual
+1016,21-09-10 12:22,21-09-10 12:38,31204,20th & E St NW,31600,5th & K St NW,W00830,Casual
+1084,21-09-10 12:22,21-09-10 12:40,31007,Crystal City Metro / 18th & Bell St,31002,20th & Crystal Dr,W00642,Member
+219,21-09-10 12:25,21-09-10 12:28,31009,27th & Crystal Dr,31002,20th & Crystal Dr,W00999,Casual
+794,21-09-10 12:27,21-09-10 12:40,31201,15th & P St NW,31600,5th & K St NW,W00614,Member
+793,21-09-10 12:27,21-09-10 12:40,31201,15th & P St NW,31600,5th & K St NW,W01101,Casual
+94,21-09-10 12:30,21-09-10 12:31,31003,15th & Crystal Dr,31003,15th & Crystal Dr,W01124,Member
+1730,21-09-10 12:32,21-09-10 13:01,31003,15th & Crystal Dr,31010,S Glebe & Potomac Ave,W01124,Member
+1301,21-09-10 12:33,21-09-10 12:55,31009,27th & Crystal Dr,31009,27th & Crystal Dr,W00735,Casual
+513,21-09-10 12:34,21-09-10 12:42,31200,Massachusetts Ave & Dupont Circle NW,31203,14th & Rhode Island Ave NW,W00910,Member
+234,21-09-10 12:40,21-09-10 12:44,31101,14th & V St NW,31101,14th & V St NW,W00745,Member
+2082,21-09-10 12:41,21-09-10 13:16,31200,Massachusetts Ave & Dupont Circle NW,31106,Calvert & Biltmore St NW,W00773,Member
+571,21-09-10 12:48,21-09-10 12:57,31200,Massachusetts Ave & Dupont Circle NW,31203,14th & Rhode Island Ave NW,W00968,Member
+1673,21-09-10 12:48,21-09-10 13:16,31108,4th & M St SW,31002,20th & Crystal Dr,W00958,Member
+641,21-09-10 12:55,21-09-10 13:06,31107,Lamont & Mt Pleasant NW,31203,14th & Rhode Island Ave NW,W00119,Member
+460,21-09-10 12:57,21-09-10 13:05,31110,20th St & Florida Ave NW,31201,15th & P St NW,W00855,Member
+2191,21-09-10 12:59,21-09-10 13:35,31205,21st & I St NW,31200,Massachusetts Ave & Dupont Circle NW,W01059,Member
+920,21-09-10 13:00,21-09-10 13:15,31201,15th & P St NW,31600,5th & K St NW,W00648,Member
+386,21-09-10 13:04,21-09-10 13:10,31200,Massachusetts Ave & Dupont Circle NW,31205,21st & I St NW,W00795,Casual
+832,21-09-10 13:05,21-09-10 13:19,31101,14th & V St NW,31106,Calvert & Biltmore St NW,W00918,Member
+815,21-09-10 13:05,21-09-10 13:19,31101,14th & V St NW,31106,Calvert & Biltmore St NW,W00745,Member
+719,21-09-10 13:06,21-09-10 13:18,31010,S Glebe & Potomac Ave,31008,12th & Army Navy Dr,W01124,Member
+1778,21-09-10 13:07,21-09-10 13:36,31400,Georgia & New Hampshire Ave NW,31101,14th & V St NW,W00363,Casual
+5136,21-09-10 13:07,21-09-10 14:33,31007,Crystal City Metro / 18th & Bell St,31001,18th & Eads St.,W01083,Casual
+376,21-09-10 13:12,21-09-10 13:19,31002,20th & Crystal Dr,31009,27th & Crystal Dr,W00999,Casual
+1541,21-09-10 13:21,21-09-10 13:46,31002,20th & Crystal Dr,31108,4th & M St SW,W00570,Member
+573,21-09-10 13:28,21-09-10 13:38,31203,14th & Rhode Island Ave NW,31205,21st & I St NW,W00772,Member
+540,21-09-10 13:29,21-09-10 13:38,31209,1st & N St  SE,31108,4th & M St SW,W00872,Member
+2759,21-09-10 13:31,21-09-10 14:17,31202,14th & R St NW,31600,5th & K St NW,W00930,Casual
+2761,21-09-10 13:31,21-09-10 14:17,31202,14th & R St NW,31600,5th & K St NW,W00518,Casual
+747,21-09-10 13:37,21-09-10 13:50,31201,15th & P St NW,31205,21st & I St NW,W00855,Casual
+593,21-09-10 13:39,21-09-10 13:49,31203,14th & Rhode Island Ave NW,31603,1st & M St NE,W00910,Member
+1477,21-09-10 13:44,21-09-10 14:08,31200,Massachusetts Ave & Dupont Circle NW,31603,1st & M St NE,W00526,Member
+596,21-09-10 13:44,21-09-10 13:54,31108,4th & M St SW,31209,1st & N St  SE,W00332,Member
+1254,21-09-10 13:46,21-09-10 14:07,31200,Massachusetts Ave & Dupont Circle NW,31600,5th & K St NW,W01059,Member
+523,21-09-10 13:55,21-09-10 14:03,31000,Eads St & 15th St S,31011,23rd & Crystal Dr,W00100,Member
+616,21-09-10 13:56,21-09-10 14:06,31203,14th & Rhode Island Ave NW,31110,20th St & Florida Ave NW,W00119,Member
+617,21-09-10 14:00,21-09-10 14:10,31106,Calvert & Biltmore St NW,31101,14th & V St NW,W00918,Member
+612,21-09-10 14:00,21-09-10 14:10,31106,Calvert & Biltmore St NW,31101,14th & V St NW,W00745,Member
+5786,21-09-10 14:05,21-09-10 15:42,31600,5th & K St NW,31110,20th St & Florida Ave NW,W00491,Casual
+448,21-09-10 14:06,21-09-10 14:14,31200,Massachusetts Ave & Dupont Circle NW,31201,15th & P St NW,W00993,Member
+317,21-09-10 14:11,21-09-10 14:16,31110,20th St & Florida Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W00119,Member
+4330,21-09-10 14:14,21-09-10 15:27,31205,21st & I St NW,31205,21st & I St NW,W00883,Casual
+823,21-09-10 14:20,21-09-10 14:34,31203,14th & Rhode Island Ave NW,31602,Park Rd & Holmead Pl NW,W00968,Member
+123,21-09-10 14:20,21-09-10 14:22,31003,15th & Crystal Dr,31002,20th & Crystal Dr,W00807,Member
+621,21-09-10 14:24,21-09-10 14:35,31104,Adams Mill & Columbia Rd NW,31106,Calvert & Biltmore St NW,W00960,Member
+1538,21-09-10 14:24,21-09-10 14:50,31205,21st & I St NW,31104,Adams Mill & Columbia Rd NW,W00742,Member
+1281,21-09-10 14:28,21-09-10 14:49,31107,Lamont & Mt Pleasant NW,31103,16th & Harvard St NW,W01077,Casual
+1525,21-09-10 14:31,21-09-10 14:57,31502,John McCormack Dr & Michigan Ave NE,31502,John McCormack Dr & Michigan Ave NE,W00803,Casual
+1560,21-09-10 14:34,21-09-10 15:00,31401,14th St & Spring Rd NW,31205,21st & I St NW,W00860,Casual
+12812,21-09-10 14:34,21-09-10 18:08,31002,20th & Crystal Dr,31002,20th & Crystal Dr,W00538,Casual
+673,21-09-10 14:44,21-09-10 14:55,31003,15th & Crystal Dr,31003,15th & Crystal Dr,W00822,Member
+925,21-09-10 14:49,21-09-10 15:05,31600,5th & K St NW,31202,14th & R St NW,W00471,Member
+578,21-09-10 14:51,21-09-10 15:01,31103,16th & Harvard St NW,31107,Lamont & Mt Pleasant NW,W00755,Casual
+668,21-09-10 15:00,21-09-10 15:11,31208,M St & New Jersey Ave SE,31208,M St & New Jersey Ave SE,W00886,Casual
+1401,21-09-10 15:14,21-09-10 15:37,31101,14th & V St NW,31400,Georgia & New Hampshire Ave NW,W00775,Casual
+711,21-09-10 15:18,21-09-10 15:30,31600,5th & K St NW,31200,Massachusetts Ave & Dupont Circle NW,W01059,Member
+88,21-09-10 15:32,21-09-10 15:34,31204,20th & E St NW,31204,20th & E St NW,W01069,Member
+5196,21-09-10 15:33,21-09-10 17:00,31106,Calvert & Biltmore St NW,31604,3rd & H St NW,W00896,Casual
+633,21-09-10 15:33,21-09-10 15:44,31204,20th & E St NW,31200,Massachusetts Ave & Dupont Circle NW,W00814,Member
+5031,21-09-10 15:36,21-09-10 17:00,31106,Calvert & Biltmore St NW,31604,3rd & H St NW,W00960,Casual
+4169,21-09-10 15:43,21-09-10 16:52,31009,27th & Crystal Dr,31009,27th & Crystal Dr,W00764,Casual
+1283,21-09-10 15:50,21-09-10 16:11,31200,Massachusetts Ave & Dupont Circle NW,31207,Georgia Ave and Fairmont St NW,W00814,Member
+266,21-09-10 15:53,21-09-10 15:58,31111,10th & U St NW,31101,14th & V St NW,W00569,Member
+174,21-09-10 15:59,21-09-10 16:02,31011,23rd & Crystal Dr,31000,Eads St & 15th St S,W01034,Member
+6432,21-09-10 16:02,21-09-10 17:49,31202,14th & R St NW,31203,14th & Rhode Island Ave NW,W00471,Casual
+6320,21-09-10 16:04,21-09-10 17:49,31202,14th & R St NW,31203,14th & Rhode Island Ave NW,W00318,Casual
+6176,21-09-10 16:06,21-09-10 17:49,31202,14th & R St NW,31203,14th & Rhode Island Ave NW,W00829,Casual
+458,21-09-10 16:08,21-09-10 16:16,31502,John McCormack Dr & Michigan Ave NE,31500,4th & W St NE,W00803,Member
+274,21-09-10 16:10,21-09-10 16:15,31002,20th & Crystal Dr,31009,27th & Crystal Dr,W00240,Member
+253,21-09-10 16:19,21-09-10 16:23,31602,Park Rd & Holmead Pl NW,31401,14th St & Spring Rd NW,W00501,Casual
+573,21-09-10 16:19,21-09-10 16:29,31200,Massachusetts Ave & Dupont Circle NW,31111,10th & U St NW,W01059,Member
+435,21-09-10 16:24,21-09-10 16:31,31110,20th St & Florida Ave NW,31205,21st & I St NW,W00491,Member
+473,21-09-10 16:26,21-09-10 16:34,31500,4th & W St NE,31502,John McCormack Dr & Michigan Ave NE,W00803,Member
+1518,21-09-10 16:31,21-09-10 16:57,31208,M St & New Jersey Ave SE,31204,20th & E St NW,W01007,Member
+17000,21-09-10 16:36,21-09-10 21:19,31106,Calvert & Biltmore St NW,31104,Adams Mill & Columbia Rd NW,W00194,Casual
+1155,21-09-10 16:45,21-09-10 17:04,31600,5th & K St NW,31201,15th & P St NW,W00518,Casual
+1126,21-09-10 16:45,21-09-10 17:04,31600,5th & K St NW,31201,15th & P St NW,W01113,Casual
+477,21-09-10 16:47,21-09-10 16:55,31202,14th & R St NW,31212,21st & M St NW,W01070,Member
+3864,21-09-10 16:47,21-09-10 17:52,31106,Calvert & Biltmore St NW,31212,21st & M St NW,W00773,Casual
+372,21-09-10 17:02,21-09-10 17:09,31600,5th & K St NW,31109,7th & T St NW,W00281,Member
+4323,21-09-10 17:03,21-09-10 18:15,31010,S Glebe & Potomac Ave,31002,20th & Crystal Dr,W00342,Casual
+516,21-09-10 17:08,21-09-10 17:17,31600,5th & K St NW,31203,14th & Rhode Island Ave NW,W00930,Member
+1361,21-09-10 17:10,21-09-10 17:32,31208,M St & New Jersey Ave SE,31108,4th & M St SW,W00636,Casual
+953,21-09-10 17:10,21-09-10 17:26,31008,12th & Army Navy Dr,31008,12th & Army Navy Dr,W00959,Casual
+409,21-09-10 17:13,21-09-10 17:20,31111,10th & U St NW,31201,15th & P St NW,W00159,Member
+2028,21-09-10 17:14,21-09-10 17:48,31108,4th & M St SW,31007,Crystal City Metro / 18th & Bell St,W00861,Member
+1707,21-09-10 17:19,21-09-10 17:47,31208,M St & New Jersey Ave SE,31604,3rd & H St NW,W00886,Casual
+3627,21-09-10 17:20,21-09-10 18:20,31100,19th St & Pennsylvania Ave NW,31100,19th St & Pennsylvania Ave NW,W00639,Casual
+849,21-09-10 17:20,21-09-10 17:34,31212,21st & M St NW,31103,16th & Harvard St NW,W01070,Member
+1888,21-09-10 17:21,21-09-10 17:53,31600,5th & K St NW,31110,20th St & Florida Ave NW,W00648,Casual
+1817,21-09-10 17:22,21-09-10 17:53,31600,5th & K St NW,31110,20th St & Florida Ave NW,W00928,Casual
+1261,21-09-10 17:27,21-09-10 17:48,31213,17th & K St NW,31206,19th & E Street NW,W00491,Member
+513,21-09-10 17:27,21-09-10 17:36,31101,14th & V St NW,31103,16th & Harvard St NW,W00838,Member
+433,21-09-10 17:40,21-09-10 17:47,31100,19th St & Pennsylvania Ave NW,31201,15th & P St NW,W00843,Member
+1284,21-09-10 17:43,21-09-10 18:05,31203,14th & Rhode Island Ave NW,31105,14th & Harvard St NW,W00930,Member
+1276,21-09-10 17:44,21-09-10 18:05,31203,14th & Rhode Island Ave NW,31105,14th & Harvard St NW,W01067,Member
+1409,21-09-10 17:44,21-09-10 18:08,31604,3rd & H St NW,31602,Park Rd & Holmead Pl NW,W00960,Member
+331,21-09-10 17:46,21-09-10 17:51,31200,Massachusetts Ave & Dupont Circle NW,31201,15th & P St NW,W00777,Member
+1336,21-09-10 17:54,21-09-10 18:17,31600,5th & K St NW,31107,Lamont & Mt Pleasant NW,W01029,Member
+894,21-09-10 17:55,21-09-10 18:10,31206,19th & E Street NW,31201,15th & P St NW,W00491,Member
+1777,21-09-10 17:56,21-09-10 18:25,31203,14th & Rhode Island Ave NW,31202,14th & R St NW,W00471,Member
+1350,21-09-10 17:56,21-09-10 18:18,31205,21st & I St NW,31209,1st & N St  SE,W00883,Casual
+539,21-09-10 17:57,21-09-10 18:06,31203,14th & Rhode Island Ave NW,31101,14th & V St NW,W00318,Member
+517,21-09-10 17:59,21-09-10 18:08,31604,3rd & H St NW,31604,3rd & H St NW,W00896,Casual
+185,21-09-10 18:05,21-09-10 18:08,31105,14th & Harvard St NW,31103,16th & Harvard St NW,W00868,Member
+758,21-09-10 18:06,21-09-10 18:19,31205,21st & I St NW,31600,5th & K St NW,W00376,Member
+375,21-09-10 18:07,21-09-10 18:13,31203,14th & Rhode Island Ave NW,31101,14th & V St NW,W00829,Member
+182,21-09-10 18:07,21-09-10 18:10,31005,Pentagon City Metro / 12th & S Hayes St,31005,Pentagon City Metro / 12th & S Hayes St,W01112,Casual
+480,21-09-10 18:08,21-09-10 18:16,31204,20th & E St NW,31212,21st & M St NW,W00428,Casual
+647,21-09-10 18:09,21-09-10 18:20,31108,4th & M St SW,31208,M St & New Jersey Ave SE,W00872,Casual
+327,21-09-10 18:10,21-09-10 18:16,31203,14th & Rhode Island Ave NW,31101,14th & V St NW,W00804,Member
+585,21-09-10 18:11,21-09-10 18:21,31111,10th & U St NW,31203,14th & Rhode Island Ave NW,W00415,Member
+399,21-09-10 18:12,21-09-10 18:18,31110,20th St & Florida Ave NW,31101,14th & V St NW,W00928,Member
+377,21-09-10 18:13,21-09-10 18:19,31604,3rd & H St NW,31604,3rd & H St NW,W00896,Casual
+6558,21-09-10 18:14,21-09-10 20:03,31109,7th & T St NW,31109,7th & T St NW,W00191,Casual
+640,21-09-10 18:16,21-09-10 18:27,31101,14th & V St NW,31401,14th St & Spring Rd NW,W00363,Member
+930,21-09-10 18:17,21-09-10 18:33,31100,19th St & Pennsylvania Ave NW,31600,5th & K St NW,W00976,Member
+313,21-09-10 18:19,21-09-10 18:24,31009,27th & Crystal Dr,31007,Crystal City Metro / 18th & Bell St,W00999,Casual
+1074,21-09-10 18:19,21-09-10 18:37,31200,Massachusetts Ave & Dupont Circle NW,31100,19th St & Pennsylvania Ave NW,W00119,Casual
+830,21-09-10 18:24,21-09-10 18:38,31602,Park Rd & Holmead Pl NW,31201,15th & P St NW,W00783,Member
+1453,21-09-10 18:24,21-09-10 18:49,31205,21st & I St NW,31006,S Joyce & Army Navy Dr,W00855,Member
+1208,21-09-10 18:27,21-09-10 18:47,31600,5th & K St NW,31101,14th & V St NW,W01030,Member
+335,21-09-10 18:32,21-09-10 18:38,31401,14th St & Spring Rd NW,31602,Park Rd & Holmead Pl NW,W00380,Casual
+1527,21-09-10 18:32,21-09-10 18:58,31600,5th & K St NW,31106,Calvert & Biltmore St NW,W00830,Casual
+2650,21-09-10 18:33,21-09-10 19:17,31012,26th & S Clark St,31003,15th & Crystal Dr,?(0x0000000008D291C0),Casual
+1490,21-09-10 18:33,21-09-10 18:58,31600,5th & K St NW,31106,Calvert & Biltmore St NW,W00377,Casual
+546,21-09-10 18:34,21-09-10 18:43,31200,Massachusetts Ave & Dupont Circle NW,31201,15th & P St NW,W00805,Member
+216,21-09-10 18:34,21-09-10 18:38,31000,Eads St & 15th St S,31003,15th & Crystal Dr,W01025,Member
+2183,21-09-10 18:35,21-09-10 19:11,31009,27th & Crystal Dr,31209,1st & N St  SE,W00509,Casual
+2538,21-09-10 18:35,21-09-10 19:17,31012,26th & S Clark St,31003,15th & Crystal Dr,W01006,Casual
+371,21-09-10 18:37,21-09-10 18:43,31206,19th & E Street NW,31100,19th St & Pennsylvania Ave NW,W00039,Casual
+1375,21-09-10 18:38,21-09-10 19:01,31108,4th & M St SW,31101,14th & V St NW,W01012,Member
+589,21-09-10 18:38,21-09-10 18:48,31212,21st & M St NW,31201,15th & P St NW,W00773,Member
+1948,21-09-10 18:39,21-09-10 19:11,31011,23rd & Crystal Dr,31209,1st & N St  SE,W00816,Casual
+227,21-09-10 18:40,21-09-10 18:44,31209,1st & N St  SE,31209,1st & N St  SE,W00332,Member
+1641,21-09-10 18:40,21-09-10 19:08,31206,19th & E Street NW,31110,20th St & Florida Ave NW,W00905,Casual
+1630,21-09-10 18:41,21-09-10 19:08,31206,19th & E Street NW,31110,20th St & Florida Ave NW,W00977,Casual
+1557,21-09-10 18:41,21-09-10 19:07,31600,5th & K St NW,31200,Massachusetts Ave & Dupont Circle NW,W01101,Member
+764,21-09-10 18:41,21-09-10 18:54,31602,Park Rd & Holmead Pl NW,31203,14th & Rhode Island Ave NW,W00288,Member
+148,21-09-10 18:42,21-09-10 18:44,31202,14th & R St NW,31203,14th & Rhode Island Ave NW,W00471,Member
+933,21-09-10 18:43,21-09-10 18:59,31104,Adams Mill & Columbia Rd NW,31111,10th & U St NW,W00344,Member
+944,21-09-10 18:43,21-09-10 18:59,31104,Adams Mill & Columbia Rd NW,31111,10th & U St NW,W00546,Member
+834,21-09-10 18:43,21-09-10 18:57,31101,14th & V St NW,31203,14th & Rhode Island Ave NW,W00918,Member
+753,21-09-10 18:43,21-09-10 18:56,31100,19th St & Pennsylvania Ave NW,31203,14th & Rhode Island Ave NW,W00833,Casual
+476,21-09-10 18:45,21-09-10 18:52,31203,14th & Rhode Island Ave NW,31101,14th & V St NW,W00563,Member
+474,21-09-10 18:47,21-09-10 18:55,31108,4th & M St SW,31208,M St & New Jersey Ave SE,W00826,Member
+1070,21-09-10 18:49,21-09-10 19:07,31107,Lamont & Mt Pleasant NW,31203,14th & Rhode Island Ave NW,W00755,Member
+531,21-09-10 18:50,21-09-10 18:59,31200,Massachusetts Ave & Dupont Circle NW,31203,14th & Rhode Island Ave NW,W00796,Member
+3593,21-09-10 18:51,21-09-10 19:51,31602,Park Rd & Holmead Pl NW,31602,Park Rd & Holmead Pl NW,W00085,Casual
+1190,21-09-10 18:53,21-09-10 19:13,31600,5th & K St NW,31200,Massachusetts Ave & Dupont Circle NW,W00376,Member
+677,21-09-10 18:58,21-09-10 19:09,31200,Massachusetts Ave & Dupont Circle NW,31206,19th & E Street NW,W00322,Member
+13645,21-09-10 19:03,21-09-10 22:50,31204,20th & E St NW,31204,20th & E St NW,W01007,Casual
+259,21-09-10 19:04,21-09-10 19:08,31004,Aurora Hills Community Ctr/18th & Hayes St,31004,Aurora Hills Community Ctr/18th & Hayes St,W00825,Casual
+358,21-09-10 19:06,21-09-10 19:12,31201,15th & P St NW,31200,Massachusetts Ave & Dupont Circle NW,W00777,Member
+356,21-09-10 19:06,21-09-10 19:12,31201,15th & P St NW,31200,Massachusetts Ave & Dupont Circle NW,W00159,Member
+608,21-09-10 19:09,21-09-10 19:19,31205,21st & I St NW,31200,Massachusetts Ave & Dupont Circle NW,W00492,Casual
+322,21-09-10 19:10,21-09-10 19:16,31205,21st & I St NW,31100,19th St & Pennsylvania Ave NW,W00795,Member
+394,21-09-10 19:11,21-09-10 19:18,31201,15th & P St NW,31101,14th & V St NW,W00518,Member
+1215,21-09-10 19:12,21-09-10 19:32,31203,14th & Rhode Island Ave NW,31110,20th St & Florida Ave NW,W00918,Member
+1204,21-09-10 19:12,21-09-10 19:32,31203,14th & Rhode Island Ave NW,31110,20th St & Florida Ave NW,W00796,Member
+630,21-09-10 19:12,21-09-10 19:22,31104,Adams Mill & Columbia Rd NW,31107,Lamont & Mt Pleasant NW,W00971,Member
+769,21-09-10 19:15,21-09-10 19:28,31202,14th & R St NW,31205,21st & I St NW,W00512,Member
+831,21-09-10 19:16,21-09-10 19:30,31104,Adams Mill & Columbia Rd NW,31105,14th & Harvard St NW,W00577,Casual
+596,21-09-10 19:17,21-09-10 19:27,31205,21st & I St NW,31110,20th St & Florida Ave NW,W00772,Member
+405,21-09-10 19:19,21-09-10 19:26,31111,10th & U St NW,31202,14th & R St NW,W00546,Member
+1489,21-09-10 19:19,21-09-10 19:44,31203,14th & Rhode Island Ave NW,31107,Lamont & Mt Pleasant NW,W00288,Member
+2440,21-09-10 19:21,21-09-10 20:02,31100,19th St & Pennsylvania Ave NW,31103,16th & Harvard St NW,W00639,Casual
+595,21-09-10 19:22,21-09-10 19:32,31100,19th St & Pennsylvania Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W00198,Member
+337,21-09-10 19:24,21-09-10 19:30,31401,14th St & Spring Rd NW,31400,Georgia & New Hampshire Ave NW,W00031,Member
+908,21-09-10 19:26,21-09-10 19:41,31104,Adams Mill & Columbia Rd NW,31205,21st & I St NW,W00742,Member
+829,21-09-10 19:32,21-09-10 19:46,31205,21st & I St NW,31201,15th & P St NW,W00557,Member
+365,21-09-10 19:33,21-09-10 19:39,31202,14th & R St NW,31110,20th St & Florida Ave NW,W00546,Member
+1596,21-09-10 19:35,21-09-10 20:02,31200,Massachusetts Ave & Dupont Circle NW,31103,16th & Harvard St NW,W00159,Casual
+2189,21-09-10 19:36,21-09-10 20:12,31209,1st & N St  SE,31011,23rd & Crystal Dr,W00509,Casual
+2369,21-09-10 19:37,21-09-10 20:16,31209,1st & N St  SE,31009,27th & Crystal Dr,W00332,Casual
+3126,21-09-10 19:37,21-09-10 20:29,31108,4th & M St SW,31108,4th & M St SW,W00256,Casual
+236,21-09-10 19:39,21-09-10 19:43,31200,Massachusetts Ave & Dupont Circle NW,31212,21st & M St NW,W00777,Member
+2904,21-09-10 19:41,21-09-10 20:29,31108,4th & M St SW,31108,4th & M St SW,W00636,Casual
+181,21-09-10 19:42,21-09-10 19:45,31007,Crystal City Metro / 18th & Bell St,31011,23rd & Crystal Dr,W00794,Member
+730,21-09-10 19:46,21-09-10 19:58,31200,Massachusetts Ave & Dupont Circle NW,31111,10th & U St NW,W00376,Member
+196,21-09-10 19:49,21-09-10 19:53,31003,15th & Crystal Dr,31000,Eads St & 15th St S,W01066,Member
+188,21-09-10 19:53,21-09-10 19:56,31111,10th & U St NW,31111,10th & U St NW,W00344,Member
+355,21-09-10 19:55,21-09-10 20:01,31212,21st & M St NW,31201,15th & P St NW,W00428,Casual
+202,21-09-10 20:03,21-09-10 20:06,31007,Crystal City Metro / 18th & Bell St,31011,23rd & Crystal Dr,W01076,Casual
+507,21-09-10 20:03,21-09-10 20:11,31110,20th St & Florida Ave NW,31111,10th & U St NW,W00546,Member
+395,21-09-10 20:04,21-09-10 20:11,31200,Massachusetts Ave & Dupont Circle NW,31203,14th & Rhode Island Ave NW,W01101,Member
+882,21-09-10 20:07,21-09-10 20:22,31201,15th & P St NW,31600,5th & K St NW,W00428,Member
+311,21-09-10 20:08,21-09-10 20:13,31101,14th & V St NW,31201,15th & P St NW,W00829,Member
+847,21-09-10 20:11,21-09-10 20:25,31100,19th St & Pennsylvania Ave NW,31110,20th St & Florida Ave NW,W00566,Casual
+812,21-09-10 20:11,21-09-10 20:25,31100,19th St & Pennsylvania Ave NW,31110,20th St & Florida Ave NW,W00780,Casual
+359,21-09-10 20:17,21-09-10 20:23,31201,15th & P St NW,31212,21st & M St NW,W00491,Casual
+1477,21-09-10 20:22,21-09-10 20:47,31203,14th & Rhode Island Ave NW,31111,10th & U St NW,W00519,Member
+1876,21-09-10 20:26,21-09-10 20:57,31100,19th St & Pennsylvania Ave NW,31108,4th & M St SW,W00119,Casual
+530,21-09-10 20:36,21-09-10 20:45,31212,21st & M St NW,31213,17th & K St NW,W00777,Member
+921,21-09-10 20:36,21-09-10 20:51,31212,21st & M St NW,31111,10th & U St NW,W00491,Member
+438,21-09-10 20:50,21-09-10 20:58,31203,14th & Rhode Island Ave NW,31203,14th & Rhode Island Ave NW,W00415,Member
+1086,21-09-10 20:55,21-09-10 21:13,31205,21st & I St NW,31105,14th & Harvard St NW,W00605,Member
+614,21-09-10 20:57,21-09-10 21:07,31200,Massachusetts Ave & Dupont Circle NW,31201,15th & P St NW,W00289,Member
+872,21-09-10 20:57,21-09-10 21:11,31200,Massachusetts Ave & Dupont Circle NW,31203,14th & Rhode Island Ave NW,W00032,Member
+244,21-09-10 20:58,21-09-10 21:02,31203,14th & Rhode Island Ave NW,31201,15th & P St NW,W00743,Member
+732,21-09-10 21:02,21-09-10 21:14,31101,14th & V St NW,31200,Massachusetts Ave & Dupont Circle NW,W00569,Member
+523,21-09-10 21:03,21-09-10 21:11,31206,19th & E Street NW,31200,Massachusetts Ave & Dupont Circle NW,W00555,Member
+132,21-09-10 21:03,21-09-10 21:05,31203,14th & Rhode Island Ave NW,31201,15th & P St NW,W00833,Member
+443,21-09-10 21:05,21-09-10 21:12,31201,15th & P St NW,31111,10th & U St NW,W00806,Casual
+398,21-09-10 21:07,21-09-10 21:13,31200,Massachusetts Ave & Dupont Circle NW,31205,21st & I St NW,W00198,Casual
+298,21-09-10 21:09,21-09-10 21:14,31107,Lamont & Mt Pleasant NW,31104,Adams Mill & Columbia Rd NW,W01029,Member
+589,21-09-10 21:13,21-09-10 21:23,31205,21st & I St NW,31202,14th & R St NW,W01063,Member
+358,21-09-10 21:14,21-09-10 21:20,31200,Massachusetts Ave & Dupont Circle NW,31203,14th & Rhode Island Ave NW,W00492,Member
+540,21-09-10 21:17,21-09-10 21:26,31105,14th & Harvard St NW,31104,Adams Mill & Columbia Rd NW,W01067,Casual
+968,21-09-10 21:31,21-09-10 21:47,31203,14th & Rhode Island Ave NW,31600,5th & K St NW,W01101,Member
+426,21-09-10 21:33,21-09-10 21:40,31101,14th & V St NW,31105,14th & Harvard St NW,W00928,Member
+431,21-09-10 21:33,21-09-10 21:41,31101,14th & V St NW,31105,14th & Harvard St NW,W01012,Member
+646,21-09-10 21:35,21-09-10 21:45,31200,Massachusetts Ave & Dupont Circle NW,31106,Calvert & Biltmore St NW,W00555,Casual
+801,21-09-10 21:37,21-09-10 21:51,31400,Georgia & New Hampshire Ave NW,31101,14th & V St NW,W00338,Casual
+565,21-09-10 21:39,21-09-10 21:48,31104,Adams Mill & Columbia Rd NW,31203,14th & Rhode Island Ave NW,W01067,Member
+267,21-09-10 21:42,21-09-10 21:46,31007,Crystal City Metro / 18th & Bell St,31009,27th & Crystal Dr,W00999,Casual
+432,21-09-10 21:46,21-09-10 21:53,31103,16th & Harvard St NW,31207,Georgia Ave and Fairmont St NW,W00786,Member
+117,21-09-10 21:51,21-09-10 21:53,31201,15th & P St NW,31203,14th & Rhode Island Ave NW,W00829,Member
+575,21-09-10 21:53,21-09-10 22:02,31100,19th St & Pennsylvania Ave NW,31110,20th St & Florida Ave NW,W00523,Casual
+2008,21-09-10 22:00,21-09-10 22:34,31110,20th St & Florida Ave NW,31110,20th St & Florida Ave NW,W00918,Casual
+1998,21-09-10 22:01,21-09-10 22:34,31110,20th St & Florida Ave NW,31110,20th St & Florida Ave NW,W00796,Casual
+643,21-09-10 22:10,21-09-10 22:20,31201,15th & P St NW,31602,Park Rd & Holmead Pl NW,W01113,Member
+665,21-09-10 22:10,21-09-10 22:21,31104,Adams Mill & Columbia Rd NW,31203,14th & Rhode Island Ave NW,W00194,Member
+1014,21-09-10 22:11,21-09-10 22:28,31600,5th & K St NW,31207,Georgia Ave and Fairmont St NW,W00428,Member
+1396,21-09-10 22:19,21-09-10 22:43,31205,21st & I St NW,31107,Lamont & Mt Pleasant NW,W00512,Casual
+654,21-09-10 22:33,21-09-10 22:44,31201,15th & P St NW,31101,14th & V St NW,W00285,Casual
+1161,21-09-10 22:38,21-09-10 22:57,31205,21st & I St NW,31401,14th St & Spring Rd NW,W00986,Member
+835,21-09-10 22:42,21-09-10 22:56,31011,23rd & Crystal Dr,31009,27th & Crystal Dr,W01015,Casual
+138,21-09-10 22:47,21-09-10 22:49,31011,23rd & Crystal Dr,31011,23rd & Crystal Dr,W01097,Member
+725,21-09-10 22:52,21-09-10 23:04,31011,23rd & Crystal Dr,31009,27th & Crystal Dr,W00509,Casual
+5056,21-09-10 22:53,22-09-10 0:17,31201,15th & P St NW,31200,Massachusetts Ave & Dupont Circle NW,W00289,Casual
+472,21-09-10 23:34,21-09-10 23:42,31111,10th & U St NW,31207,Georgia Ave and Fairmont St NW,W01059,Member
+1007,21-09-10 23:47,22-09-10 0:04,31201,15th & P St NW,31600,5th & K St NW,W00557,Member
+555,21-09-10 23:48,21-09-10 23:57,31602,Park Rd & Holmead Pl NW,31400,Georgia & New Hampshire Ave NW,W00968,Casual
+477,22-09-10 0:03,22-09-10 0:11,31201,15th & P St NW,31200,Massachusetts Ave & Dupont Circle NW,W00993,Member
+324,22-09-10 1:25,22-09-10 1:31,31205,21st & I St NW,31200,Massachusetts Ave & Dupont Circle NW,W00860,Casual
+509,22-09-10 2:27,22-09-10 2:35,31201,15th & P St NW,31201,15th & P St NW,W00743,Casual
+1991,22-09-10 3:31,22-09-10 4:04,31202,14th & R St NW,31002,20th & Crystal Dr,W00142,Member
+438,22-09-10 4:07,22-09-10 4:15,31000,Eads St & 15th St S,31001,18th & Eads St.,W00853,Member
+1937,22-09-10 4:17,22-09-10 4:50,31005,Pentagon City Metro / 12th & S Hayes St,31201,15th & P St NW,W01000,Member
+788,22-09-10 5:41,22-09-10 5:54,31106,Calvert & Biltmore St NW,31106,Calvert & Biltmore St NW,W00555,Member
+652,22-09-10 5:56,22-09-10 6:07,31004,Aurora Hills Community Ctr/18th & Hayes St,31006,S Joyce & Army Navy Dr,W00821,Member
+1035,22-09-10 6:01,22-09-10 6:19,31105,14th & Harvard St NW,31205,21st & I St NW,W00752,Member
+357,22-09-10 6:11,22-09-10 6:17,31005,Pentagon City Metro / 12th & S Hayes St,31000,Eads St & 15th St S,W01093,Member
+623,22-09-10 6:19,22-09-10 6:30,31007,Crystal City Metro / 18th & Bell St,31004,Aurora Hills Community Ctr/18th & Hayes St,W00897,Member
+455,22-09-10 6:53,22-09-10 7:00,31200,Massachusetts Ave & Dupont Circle NW,31204,20th & E St NW,W00289,Member
+265,22-09-10 7:03,22-09-10 7:08,31009,27th & Crystal Dr,31011,23rd & Crystal Dr,W00840,Casual
+204,22-09-10 7:04,22-09-10 7:07,31009,27th & Crystal Dr,31011,23rd & Crystal Dr,W00240,Casual
+210,22-09-10 7:14,22-09-10 7:17,31004,Aurora Hills Community Ctr/18th & Hayes St,31006,S Joyce & Army Navy Dr,W00897,Member
+283,22-09-10 7:23,22-09-10 7:28,31006,S Joyce & Army Navy Dr,31004,Aurora Hills Community Ctr/18th & Hayes St,W00821,Member
+1281,22-09-10 7:24,22-09-10 7:45,31107,Lamont & Mt Pleasant NW,31110,20th St & Florida Ave NW,W00971,Member
+281,22-09-10 7:28,22-09-10 7:33,31200,Massachusetts Ave & Dupont Circle NW,31212,21st & M St NW,W00569,Member
+673,22-09-10 7:29,22-09-10 7:40,31203,14th & Rhode Island Ave NW,31104,Adams Mill & Columbia Rd NW,W00032,Member
+118,22-09-10 7:29,22-09-10 7:31,31007,Crystal City Metro / 18th & Bell St,31002,20th & Crystal Dr,W00278,Member
+1187,22-09-10 7:35,22-09-10 7:55,31107,Lamont & Mt Pleasant NW,31205,21st & I St NW,W00869,Casual
+224,22-09-10 7:36,22-09-10 7:40,31401,14th St & Spring Rd NW,31602,Park Rd & Holmead Pl NW,W00856,Casual
+323,22-09-10 7:44,22-09-10 7:50,31103,16th & Harvard St NW,31101,14th & V St NW,W01070,Member
+984,22-09-10 7:45,22-09-10 8:01,31201,15th & P St NW,31603,1st & M St NE,W00783,Member
+723,22-09-10 7:46,22-09-10 7:58,31400,Georgia & New Hampshire Ave NW,31101,14th & V St NW,W00968,Member
+398,22-09-10 7:52,22-09-10 7:59,31200,Massachusetts Ave & Dupont Circle NW,31205,21st & I St NW,W00860,Member
+478,22-09-10 7:53,22-09-10 8:01,31207,Georgia Ave and Fairmont St NW,31101,14th & V St NW,W00428,Member
+120,22-09-10 7:54,22-09-10 7:56,31202,14th & R St NW,31203,14th & Rhode Island Ave NW,W01063,Member
+481,22-09-10 7:56,22-09-10 8:04,31203,14th & Rhode Island Ave NW,31100,19th St & Pennsylvania Ave NW,W00415,Member
+490,22-09-10 7:57,22-09-10 8:05,31401,14th St & Spring Rd NW,31101,14th & V St NW,W00363,Member
+751,22-09-10 8:02,22-09-10 8:14,31103,16th & Harvard St NW,31212,21st & M St NW,W00848,Member
+773,22-09-10 8:04,22-09-10 8:17,31604,3rd & H St NW,31213,17th & K St NW,W00886,Member
+911,22-09-10 8:14,22-09-10 8:29,31111,10th & U St NW,31206,19th & E Street NW,W00546,Member
+1296,22-09-10 8:18,22-09-10 8:39,31111,10th & U St NW,31206,19th & E Street NW,W00519,Member
+391,22-09-10 8:19,22-09-10 8:25,31103,16th & Harvard St NW,31101,14th & V St NW,W00479,Member
+868,22-09-10 8:19,22-09-10 8:34,31110,20th St & Florida Ave NW,31100,19th St & Pennsylvania Ave NW,W00523,Casual
+361,22-09-10 8:20,22-09-10 8:26,31212,21st & M St NW,31204,20th & E St NW,W00569,Casual
+726,22-09-10 8:20,22-09-10 8:32,31600,5th & K St NW,31205,21st & I St NW,W00557,Member
+1370,22-09-10 8:22,22-09-10 8:45,31108,4th & M St SW,31212,21st & M St NW,W00119,Member
+443,22-09-10 8:22,22-09-10 8:30,31107,Lamont & Mt Pleasant NW,31101,14th & V St NW,W00512,Member
+657,22-09-10 8:24,22-09-10 8:35,31104,Adams Mill & Columbia Rd NW,31100,19th St & Pennsylvania Ave NW,W00032,Member
+385,22-09-10 8:24,22-09-10 8:31,31101,14th & V St NW,31200,Massachusetts Ave & Dupont Circle NW,W01070,Member
+221,22-09-10 8:32,22-09-10 8:36,31104,Adams Mill & Columbia Rd NW,31106,Calvert & Biltmore St NW,W01029,Member
+593,22-09-10 8:37,22-09-10 8:47,31101,14th & V St NW,31200,Massachusetts Ave & Dupont Circle NW,W01030,Member
+669,22-09-10 8:39,22-09-10 8:50,31201,15th & P St NW,31205,21st & I St NW,W00987,Member
+3181,22-09-10 8:41,22-09-10 9:34,31201,15th & P St NW,31208,M St & New Jersey Ave SE,W01000,Casual
+334,22-09-10 8:41,22-09-10 8:46,31203,14th & Rhode Island Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W01067,Member
+495,22-09-10 8:42,22-09-10 8:51,31111,10th & U St NW,31200,Massachusetts Ave & Dupont Circle NW,W00806,Member
+945,22-09-10 8:43,22-09-10 8:58,31106,Calvert & Biltmore St NW,31602,Park Rd & Holmead Pl NW,W00555,Member
+1177,22-09-10 8:44,22-09-10 9:03,31203,14th & Rhode Island Ave NW,31400,Georgia & New Hampshire Ave NW,W00492,Member
+816,22-09-10 8:45,22-09-10 8:59,31602,Park Rd & Holmead Pl NW,31212,21st & M St NW,W00380,Member
+665,22-09-10 8:46,22-09-10 8:57,31101,14th & V St NW,31213,17th & K St NW,W00338,Member
+630,22-09-10 8:46,22-09-10 8:56,31110,20th St & Florida Ave NW,31100,19th St & Pennsylvania Ave NW,W00772,Member
+670,22-09-10 8:47,22-09-10 8:58,31103,16th & Harvard St NW,31100,19th St & Pennsylvania Ave NW,W01077,Casual
+1055,22-09-10 8:47,22-09-10 9:05,31205,21st & I St NW,31104,Adams Mill & Columbia Rd NW,W00742,Member
+1051,22-09-10 8:47,22-09-10 9:05,31603,1st & M St NE,31213,17th & K St NW,W00955,Member
+691,22-09-10 8:49,22-09-10 9:01,31203,14th & Rhode Island Ave NW,31600,5th & K St NW,W00948,Member
+329,22-09-10 8:52,22-09-10 8:58,31203,14th & Rhode Island Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W00285,Member
+301,22-09-10 9:00,22-09-10 9:05,31101,14th & V St NW,31203,14th & Rhode Island Ave NW,W00318,Member
+138,22-09-10 9:02,22-09-10 9:04,31111,10th & U St NW,31109,7th & T St NW,W00472,Member
+837,22-09-10 9:07,22-09-10 9:21,31105,14th & Harvard St NW,31201,15th & P St NW,W00858,Member
+707,22-09-10 9:08,22-09-10 9:19,31106,Calvert & Biltmore St NW,31101,14th & V St NW,W00377,Member
+403,22-09-10 9:09,22-09-10 9:16,31201,15th & P St NW,31200,Massachusetts Ave & Dupont Circle NW,W00743,Member
+593,22-09-10 9:12,22-09-10 9:22,31111,10th & U St NW,31200,Massachusetts Ave & Dupont Circle NW,W00491,Member
+207,22-09-10 9:16,22-09-10 9:19,31104,Adams Mill & Columbia Rd NW,31106,Calvert & Biltmore St NW,W00742,Member
+904,22-09-10 9:16,22-09-10 9:31,31201,15th & P St NW,31600,5th & K St NW,W00833,Member
+331,22-09-10 9:17,22-09-10 9:22,31107,Lamont & Mt Pleasant NW,31104,Adams Mill & Columbia Rd NW,W00288,Member
+453,22-09-10 9:19,22-09-10 9:26,31009,27th & Crystal Dr,31002,20th & Crystal Dr,W00735,Casual
+4871,22-09-10 9:21,22-09-10 10:43,31006,S Joyce & Army Navy Dr,31006,S Joyce & Army Navy Dr,W01039,Casual
+956,22-09-10 9:22,22-09-10 9:38,31107,Lamont & Mt Pleasant NW,31200,Massachusetts Ave & Dupont Circle NW,W00828,Casual
+429,22-09-10 9:24,22-09-10 9:31,31207,Georgia Ave and Fairmont St NW,31101,14th & V St NW,W01059,Member
+678,22-09-10 9:29,22-09-10 9:41,31103,16th & Harvard St NW,31104,Adams Mill & Columbia Rd NW,W00339,Member
+1028,22-09-10 9:30,22-09-10 9:47,31206,19th & E Street NW,31600,5th & K St NW,W00885,Member
+538,22-09-10 9:31,22-09-10 9:40,31103,16th & Harvard St NW,31200,Massachusetts Ave & Dupont Circle NW,W00580,Member
+313,22-09-10 9:36,22-09-10 9:41,31203,14th & Rhode Island Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W00318,Member
+280,22-09-10 9:36,22-09-10 9:41,31801,Anacostia Metro,31802,Good Hope Rd & MLK Ave SE,W00970,Member
+814,22-09-10 9:37,22-09-10 9:50,31101,14th & V St NW,31600,5th & K St NW,W00377,Member
+31948,22-09-10 9:39,22-09-10 18:31,31201,15th & P St NW,31213,17th & K St NW,W00805,Member
+551,22-09-10 9:46,22-09-10 9:55,31203,14th & Rhode Island Ave NW,31205,21st & I St NW,W01063,Member
+525,22-09-10 9:53,22-09-10 10:02,31213,17th & K St NW,31600,5th & K St NW,W00614,Member
+732,22-09-10 9:53,22-09-10 10:05,31111,10th & U St NW,31200,Massachusetts Ave & Dupont Circle NW,W01110,Member
+440,22-09-10 9:56,22-09-10 10:03,31200,Massachusetts Ave & Dupont Circle NW,31205,21st & I St NW,W00828,Casual
+1006,22-09-10 9:59,22-09-10 10:15,31600,5th & K St NW,31100,19th St & Pennsylvania Ave NW,W00833,Member
+598,22-09-10 10:02,22-09-10 10:12,31101,14th & V St NW,31213,17th & K St NW,W00968,Member
+627,22-09-10 10:05,22-09-10 10:16,31109,7th & T St NW,31213,17th & K St NW,W00334,Member
+1021,22-09-10 10:10,22-09-10 10:27,31110,20th St & Florida Ave NW,31100,19th St & Pennsylvania Ave NW,W00905,Casual
+1012,22-09-10 10:10,22-09-10 10:27,31110,20th St & Florida Ave NW,31100,19th St & Pennsylvania Ave NW,W00977,Casual
+1129,22-09-10 10:21,22-09-10 10:40,31103,16th & Harvard St NW,31205,21st & I St NW,W00838,Member
+236,22-09-10 10:26,22-09-10 10:30,31111,10th & U St NW,31101,14th & V St NW,W00344,Member
+204,22-09-10 10:27,22-09-10 10:30,31111,10th & U St NW,31101,14th & V St NW,W00376,Member
+479,22-09-10 10:31,22-09-10 10:39,31105,14th & Harvard St NW,31201,15th & P St NW,W00577,Member
+269,22-09-10 10:35,22-09-10 10:40,31007,Crystal City Metro / 18th & Bell St,31004,Aurora Hills Community Ctr/18th & Hayes St,W00368,Member
+174,22-09-10 10:47,22-09-10 10:50,31004,Aurora Hills Community Ctr/18th & Hayes St,31007,Crystal City Metro / 18th & Bell St,W00821,Member
+3738,22-09-10 10:47,22-09-10 11:50,31201,15th & P St NW,31213,17th & K St NW,W00858,Casual
+3570,22-09-10 10:50,22-09-10 11:50,31201,15th & P St NW,31213,17th & K St NW,W00773,Casual
+625,22-09-10 10:51,22-09-10 11:02,31203,14th & Rhode Island Ave NW,31600,5th & K St NW,W00755,Member
+23620,22-09-10 10:54,22-09-10 17:27,31100,19th St & Pennsylvania Ave NW,31204,20th & E St NW,W00905,Casual
+442,22-09-10 10:54,22-09-10 11:02,31201,15th & P St NW,31213,17th & K St NW,W00615,Member
+23549,22-09-10 10:55,22-09-10 17:28,31100,19th St & Pennsylvania Ave NW,31204,20th & E St NW,W00523,Casual
+346,22-09-10 11:07,22-09-10 11:13,31203,14th & Rhode Island Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W00194,Member
+1419,22-09-10 11:11,22-09-10 11:34,31100,19th St & Pennsylvania Ave NW,31208,M St & New Jersey Ave SE,W01077,Casual
+792,22-09-10 11:12,22-09-10 11:25,31101,14th & V St NW,31200,Massachusetts Ave & Dupont Circle NW,W00479,Member
+3212,22-09-10 11:14,22-09-10 12:08,31008,12th & Army Navy Dr,31204,20th & E St NW,W00637,Casual
+7975,22-09-10 11:19,22-09-10 13:32,31011,23rd & Crystal Dr,31011,23rd & Crystal Dr,W00240,Casual
+2327,22-09-10 11:19,22-09-10 11:58,31003,15th & Crystal Dr,31003,15th & Crystal Dr,W01006,Member
+229,22-09-10 11:21,22-09-10 11:25,31007,Crystal City Metro / 18th & Bell St,31011,23rd & Crystal Dr,W00861,Casual
+347,22-09-10 11:25,22-09-10 11:31,31004,Aurora Hills Community Ctr/18th & Hayes St,31012,26th & S Clark St,W00825,Member
+3566,22-09-10 11:34,22-09-10 12:33,31012,26th & S Clark St,31011,23rd & Crystal Dr,W00707,Member
+225,22-09-10 11:42,22-09-10 11:45,31100,19th St & Pennsylvania Ave NW,31100,19th St & Pennsylvania Ave NW,W00415,Member
+2387,22-09-10 11:46,22-09-10 12:25,31109,7th & T St NW,31213,17th & K St NW,W00811,Member
+224,22-09-10 11:47,22-09-10 11:51,31202,14th & R St NW,31101,14th & V St NW,W01057,Member
+449,22-09-10 11:49,22-09-10 11:56,31110,20th St & Florida Ave NW,31205,21st & I St NW,W00648,Member
+798,22-09-10 11:53,22-09-10 12:06,31009,27th & Crystal Dr,31000,Eads St & 15th St S,W00799,Member
+337,22-09-10 11:56,22-09-10 12:01,31011,23rd & Crystal Dr,31004,Aurora Hills Community Ctr/18th & Hayes St,W00100,Member
+732,22-09-10 12:00,22-09-10 12:12,31213,17th & K St NW,31600,5th & K St NW,W00777,Member
+2282,22-09-10 12:00,22-09-10 12:39,31400,Georgia & New Hampshire Ave NW,31213,17th & K St NW,W00492,Casual
+321,22-09-10 12:04,22-09-10 12:09,31200,Massachusetts Ave & Dupont Circle NW,31212,21st & M St NW,W01030,Member
+1212,22-09-10 12:13,22-09-10 12:33,31207,Georgia Ave and Fairmont St NW,31205,21st & I St NW,W00814,Member
+1933,22-09-10 12:15,22-09-10 12:47,31206,19th & E Street NW,31200,Massachusetts Ave & Dupont Circle NW,W00546,Casual
+144,22-09-10 12:16,22-09-10 12:18,31000,Eads St & 15th St S,31011,23rd & Crystal Dr,W00978,Member
+686,22-09-10 12:16,22-09-10 12:27,31000,Eads St & 15th St S,31012,26th & S Clark St,W01066,Member
+786,22-09-10 12:21,22-09-10 12:34,31600,5th & K St NW,31212,21st & M St NW,W01101,Casual
+741,22-09-10 12:24,22-09-10 12:36,31002,20th & Crystal Dr,31009,27th & Crystal Dr,W01079,Member
+2861,22-09-10 12:29,22-09-10 13:16,31200,Massachusetts Ave & Dupont Circle NW,31212,21st & M St NW,W00479,Casual
+297,22-09-10 12:29,22-09-10 12:34,31101,14th & V St NW,31111,10th & U St NW,W01059,Member
+294,22-09-10 12:29,22-09-10 12:34,31101,14th & V St NW,31111,10th & U St NW,W00344,Member
+874,22-09-10 12:31,22-09-10 12:46,31107,Lamont & Mt Pleasant NW,31111,10th & U St NW,W00437,Member
+155,22-09-10 12:32,22-09-10 12:34,31011,23rd & Crystal Dr,31011,23rd & Crystal Dr,W00978,Member
+940,22-09-10 12:32,22-09-10 12:48,31011,23rd & Crystal Dr,31011,23rd & Crystal Dr,W00861,Casual
+956,22-09-10 12:33,22-09-10 12:49,31600,5th & K St NW,31600,5th & K St NW,W00885,Member
+762,22-09-10 12:38,22-09-10 12:51,31007,Crystal City Metro / 18th & Bell St,31001,18th & Eads St.,W00824,Member
+1159,22-09-10 12:41,22-09-10 13:01,31201,15th & P St NW,31600,5th & K St NW,W00843,Casual
+1162,22-09-10 12:43,22-09-10 13:02,31011,23rd & Crystal Dr,31011,23rd & Crystal Dr,W00978,Member
+569,22-09-10 12:48,22-09-10 12:58,31200,Massachusetts Ave & Dupont Circle NW,31101,14th & V St NW,W00318,Member
+1246,22-09-10 12:58,22-09-10 13:19,31007,Crystal City Metro / 18th & Bell St,31011,23rd & Crystal Dr,W01041,Member
+701,22-09-10 12:58,22-09-10 13:10,31205,21st & I St NW,31201,15th & P St NW,W00830,Member
+680,22-09-10 13:02,22-09-10 13:13,31011,23rd & Crystal Dr,31011,23rd & Crystal Dr,W00861,Member
+1070,22-09-10 13:03,22-09-10 13:21,31203,14th & Rhode Island Ave NW,31203,14th & Rhode Island Ave NW,W00471,Member
+808,22-09-10 13:04,22-09-10 13:17,31212,21st & M St NW,31600,5th & K St NW,W00380,Casual
+177,22-09-10 13:11,22-09-10 13:14,31011,23rd & Crystal Dr,31000,Eads St & 15th St S,W01076,Member
+171,22-09-10 13:11,22-09-10 13:14,31011,23rd & Crystal Dr,31000,Eads St & 15th St S,W00840,Member
+280,22-09-10 13:22,22-09-10 13:27,31208,M St & New Jersey Ave SE,31208,M St & New Jersey Ave SE,W01000,Member
+191,22-09-10 13:32,22-09-10 13:35,31011,23rd & Crystal Dr,31011,23rd & Crystal Dr,W00978,Member
+457,22-09-10 13:32,22-09-10 13:40,31011,23rd & Crystal Dr,31007,Crystal City Metro / 18th & Bell St,W00760,Member
+3623,22-09-10 13:36,22-09-10 14:36,31104,Adams Mill & Columbia Rd NW,31604,3rd & H St NW,W00339,Casual
+3580,22-09-10 13:37,22-09-10 14:36,31104,Adams Mill & Columbia Rd NW,31604,3rd & H St NW,W00347,Casual
+1409,22-09-10 13:43,22-09-10 14:06,31106,Calvert & Biltmore St NW,31200,Massachusetts Ave & Dupont Circle NW,W00903,Member
+10226,22-09-10 13:43,22-09-10 16:34,31604,3rd & H St NW,31604,3rd & H St NW,W00896,Casual
+311,22-09-10 13:45,22-09-10 13:51,31011,23rd & Crystal Dr,31007,Crystal City Metro / 18th & Bell St,W00240,Member
+310,22-09-10 13:45,22-09-10 13:51,31011,23rd & Crystal Dr,31007,Crystal City Metro / 18th & Bell St,W01097,Member
+7386,22-09-10 13:53,22-09-10 15:56,31003,15th & Crystal Dr,31003,15th & Crystal Dr,W01025,Casual
+2656,22-09-10 13:54,22-09-10 14:39,31201,15th & P St NW,31206,19th & E Street NW,W00830,Casual
+7933,22-09-10 13:56,22-09-10 16:08,31604,3rd & H St NW,31606,Potomac & Pennsylvania Ave SE,W00540,Member
+68,22-09-10 14:00,22-09-10 14:01,31000,Eads St & 15th St S,31007,Crystal City Metro / 18th & Bell St,W00819,Member
+544,22-09-10 14:01,22-09-10 14:10,31204,20th & E St NW,31110,20th St & Florida Ave NW,W00289,Member
+294,22-09-10 14:03,22-09-10 14:08,31007,Crystal City Metro / 18th & Bell St,31004,Aurora Hills Community Ctr/18th & Hayes St,W00134,Member
+288,22-09-10 14:03,22-09-10 14:08,31007,Crystal City Metro / 18th & Bell St,31004,Aurora Hills Community Ctr/18th & Hayes St,W01097,Member
+3008,22-09-10 14:03,22-09-10 14:53,31103,16th & Harvard St NW,31213,17th & K St NW,W00868,Casual
+788,22-09-10 14:09,22-09-10 14:22,31106,Calvert & Biltmore St NW,31201,15th & P St NW,W00742,Casual
+626,22-09-10 14:12,22-09-10 14:23,31203,14th & Rhode Island Ave NW,31110,20th St & Florida Ave NW,W00829,Member
+186,22-09-10 14:23,22-09-10 14:26,31004,Aurora Hills Community Ctr/18th & Hayes St,31007,Crystal City Metro / 18th & Bell St,W01097,Member
+524,22-09-10 14:23,22-09-10 14:32,31205,21st & I St NW,31200,Massachusetts Ave & Dupont Circle NW,W00869,Casual
+132,22-09-10 14:24,22-09-10 14:26,31004,Aurora Hills Community Ctr/18th & Hayes St,31007,Crystal City Metro / 18th & Bell St,W00100,Member
+852,22-09-10 14:28,22-09-10 14:43,31213,17th & K St NW,31213,17th & K St NW,W00492,Member
+9067,22-09-10 14:29,22-09-10 17:00,31009,27th & Crystal Dr,31012,26th & S Clark St,W00332,Casual
+8984,22-09-10 14:31,22-09-10 17:00,31009,27th & Crystal Dr,31012,26th & S Clark St,W01079,Casual
+392,22-09-10 14:33,22-09-10 14:40,31204,20th & E St NW,31212,21st & M St NW,W00048,Member
+1167,22-09-10 14:37,22-09-10 14:56,31104,Adams Mill & Columbia Rd NW,31213,17th & K St NW,W00353,Casual
+1029,22-09-10 14:45,22-09-10 15:02,31110,20th St & Florida Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W00780,Casual
+323,22-09-10 14:46,22-09-10 14:51,31007,Crystal City Metro / 18th & Bell St,31011,23rd & Crystal Dr,W00100,Member
+308,22-09-10 14:46,22-09-10 14:51,31007,Crystal City Metro / 18th & Bell St,31011,23rd & Crystal Dr,W00819,Member
+979,22-09-10 14:47,22-09-10 15:04,31000,Eads St & 15th St S,31000,Eads St & 15th St S,W01093,Casual
+200,22-09-10 14:48,22-09-10 14:51,31003,15th & Crystal Dr,31008,12th & Army Navy Dr,W01016,Casual
+742,22-09-10 14:48,22-09-10 15:01,31213,17th & K St NW,31101,14th & V St NW,W00615,Casual
+281,22-09-10 14:49,22-09-10 14:53,31105,14th & Harvard St NW,31101,14th & V St NW,W01012,Member
+728,22-09-10 14:51,22-09-10 15:03,31000,Eads St & 15th St S,31000,Eads St & 15th St S,W00799,Casual
+785,22-09-10 14:55,22-09-10 15:08,31003,15th & Crystal Dr,31006,S Joyce & Army Navy Dr,W00822,Casual
+737,22-09-10 14:55,22-09-10 15:07,31200,Massachusetts Ave & Dupont Circle NW,31100,19th St & Pennsylvania Ave NW,W01067,Member
+1101,22-09-10 15:01,22-09-10 15:19,31000,Eads St & 15th St S,31005,Pentagon City Metro / 12th & S Hayes St,W01076,Casual
+1417,22-09-10 15:01,22-09-10 15:24,31213,17th & K St NW,31103,16th & Harvard St NW,W00868,Casual
+585,22-09-10 15:15,22-09-10 15:25,31200,Massachusetts Ave & Dupont Circle NW,31111,10th & U St NW,W00806,Member
+873,22-09-10 15:18,22-09-10 15:32,31605,3rd & D St SE,31607,14th & D St SE,W00549,Casual
+339,22-09-10 15:18,22-09-10 15:24,31602,Park Rd & Holmead Pl NW,31400,Georgia & New Hampshire Ave NW,W00640,Casual
+718,22-09-10 15:21,22-09-10 15:33,31212,21st & M St NW,31204,20th & E St NW,W00048,Member
+660,22-09-10 15:22,22-09-10 15:33,31600,5th & K St NW,31203,14th & Rhode Island Ave NW,W00843,Member
+1946,22-09-10 15:23,22-09-10 15:55,31205,21st & I St NW,31605,3rd & D St SE,W00828,Member
+14721,22-09-10 15:28,22-09-10 19:33,31212,21st & M St NW,31212,21st & M St NW,W00479,Casual
+844,22-09-10 15:28,22-09-10 15:42,31004,Aurora Hills Community Ctr/18th & Hayes St,31010,S Glebe & Potomac Ave,W00354,Casual
+1094,22-09-10 15:28,22-09-10 15:46,31205,21st & I St NW,31213,17th & K St NW,W00838,Member
+12546,22-09-10 15:28,22-09-10 18:57,31604,3rd & H St NW,31203,14th & Rhode Island Ave NW,W00347,Casual
+755,22-09-10 15:28,22-09-10 15:41,31201,15th & P St NW,31600,5th & K St NW,W00577,Member
+14598,22-09-10 15:30,22-09-10 19:33,31212,21st & M St NW,31212,21st & M St NW,W00848,Casual
+1654,22-09-10 15:44,22-09-10 16:11,31110,20th St & Florida Ave NW,31212,21st & M St NW,W00796,Member
+841,22-09-10 15:45,22-09-10 15:59,31607,14th & D St SE,31208,M St & New Jersey Ave SE,W00808,Casual
+306,22-09-10 15:46,22-09-10 15:51,31604,3rd & H St NW,31600,5th & K St NW,W00635,Member
+296,22-09-10 15:46,22-09-10 15:51,31604,3rd & H St NW,31600,5th & K St NW,W00339,Member
+356,22-09-10 15:52,22-09-10 15:58,31005,Pentagon City Metro / 12th & S Hayes St,31007,Crystal City Metro / 18th & Bell St,W01024,Casual
+332,22-09-10 15:55,22-09-10 16:00,31600,5th & K St NW,31604,3rd & H St NW,W00614,Member
+309,22-09-10 15:55,22-09-10 16:00,31600,5th & K St NW,31604,3rd & H St NW,W00976,Member
+615,22-09-10 16:00,22-09-10 16:10,31604,3rd & H St NW,31109,7th & T St NW,W00482,Member
+11463,22-09-10 16:06,22-09-10 19:17,31205,21st & I St NW,31205,21st & I St NW,W00557,Casual
+1803,22-09-10 16:09,22-09-10 16:39,31101,14th & V St NW,31400,Georgia & New Hampshire Ave NW,W00911,Casual
+4529,22-09-10 16:10,22-09-10 17:25,31002,20th & Crystal Dr,31107,Lamont & Mt Pleasant NW,W00642,Casual
+557,22-09-10 16:13,22-09-10 16:22,31202,14th & R St NW,31213,17th & K St NW,W00943,Member
+744,22-09-10 16:17,22-09-10 16:30,31213,17th & K St NW,31100,19th St & Pennsylvania Ave NW,W00968,Member
+387,22-09-10 16:17,22-09-10 16:24,31213,17th & K St NW,31213,17th & K St NW,W00811,Member
+528,22-09-10 16:22,22-09-10 16:31,31103,16th & Harvard St NW,31200,Massachusetts Ave & Dupont Circle NW,W00868,Member
+440,22-09-10 16:27,22-09-10 16:35,31200,Massachusetts Ave & Dupont Circle NW,31205,21st & I St NW,W00491,Casual
+330,22-09-10 16:35,22-09-10 16:41,31400,Georgia & New Hampshire Ave NW,31602,Park Rd & Holmead Pl NW,W00775,Casual
+322,22-09-10 16:36,22-09-10 16:41,31602,Park Rd & Holmead Pl NW,31401,14th St & Spring Rd NW,W01113,Casual
+5992,22-09-10 16:38,22-09-10 18:18,31109,7th & T St NW,31200,Massachusetts Ave & Dupont Circle NW,W00191,Casual
+1063,22-09-10 16:40,22-09-10 16:58,31605,3rd & D St SE,31600,5th & K St NW,W00418,Member
+767,22-09-10 16:41,22-09-10 16:54,31103,16th & Harvard St NW,31103,16th & Harvard St NW,W00767,Member
+432,22-09-10 16:42,22-09-10 16:49,31110,20th St & Florida Ave NW,31205,21st & I St NW,W00289,Member
+416,22-09-10 16:47,22-09-10 16:54,31212,21st & M St NW,31110,20th St & Florida Ave NW,W01101,Member
+1062,22-09-10 16:48,22-09-10 17:06,31205,21st & I St NW,31108,4th & M St SW,W00987,Member
+636,22-09-10 16:56,22-09-10 17:06,31208,M St & New Jersey Ave SE,31605,3rd & D St SE,W00826,Casual
+381,22-09-10 16:57,22-09-10 17:04,31213,17th & K St NW,31201,15th & P St NW,W00811,Member
+549,22-09-10 16:58,22-09-10 17:07,31101,14th & V St NW,31103,16th & Harvard St NW,W00428,Member
+786,22-09-10 16:59,22-09-10 17:12,31600,5th & K St NW,31207,Georgia Ave and Fairmont St NW,W00418,Member
+539,22-09-10 16:59,22-09-10 17:08,31104,Adams Mill & Columbia Rd NW,31111,10th & U St NW,W00288,Member
+244,22-09-10 17:01,22-09-10 17:05,31109,7th & T St NW,31111,10th & U St NW,W00472,Member
+632,22-09-10 17:07,22-09-10 17:18,31200,Massachusetts Ave & Dupont Circle NW,31101,14th & V St NW,W00868,Casual
+2447,22-09-10 17:08,22-09-10 17:48,31212,21st & M St NW,31212,21st & M St NW,W00119,Casual
+815,22-09-10 17:09,22-09-10 17:23,31104,Adams Mill & Columbia Rd NW,31205,21st & I St NW,W00543,Member
+827,22-09-10 17:09,22-09-10 17:23,31103,16th & Harvard St NW,31213,17th & K St NW,W00767,Casual
+1776,22-09-10 17:10,22-09-10 17:39,31802,Good Hope Rd & MLK Ave SE,31801,Anacostia Metro,W01049,Member
+2135,22-09-10 17:10,22-09-10 17:45,31011,23rd & Crystal Dr,31209,1st & N St  SE,W00100,Casual
+208,22-09-10 17:10,22-09-10 17:13,31212,21st & M St NW,31200,Massachusetts Ave & Dupont Circle NW,W01030,Member
+5063,22-09-10 17:11,22-09-10 18:35,31200,Massachusetts Ave & Dupont Circle NW,31200,Massachusetts Ave & Dupont Circle NW,W00743,Member
+1615,22-09-10 17:12,22-09-10 17:39,31600,5th & K St NW,31003,15th & Crystal Dr,W00777,Casual
+422,22-09-10 17:15,22-09-10 17:22,31007,Crystal City Metro / 18th & Bell St,31011,23rd & Crystal Dr,W00821,Member
+1008,22-09-10 17:21,22-09-10 17:38,31400,Georgia & New Hampshire Ave NW,31600,5th & K St NW,W00031,Member
+6464,22-09-10 17:21,22-09-10 19:09,31212,21st & M St NW,31110,20th St & Florida Ave NW,W00290,Casual
+626,22-09-10 17:21,22-09-10 17:32,31600,5th & K St NW,31201,15th & P St NW,W00377,Member
+978,22-09-10 17:23,22-09-10 17:40,31600,5th & K St NW,31205,21st & I St NW,W00885,Member
+1407,22-09-10 17:24,22-09-10 17:47,31213,17th & K St NW,31600,5th & K St NW,W00767,Casual
+6125,22-09-10 17:26,22-09-10 19:08,31212,21st & M St NW,31110,20th St & Florida Ave NW,W00796,Casual
+1434,22-09-10 17:28,22-09-10 17:52,31205,21st & I St NW,31201,15th & P St NW,W00289,Casual
+294,22-09-10 17:28,22-09-10 17:33,31106,Calvert & Biltmore St NW,31104,Adams Mill & Columbia Rd NW,W01029,Casual
+3567,22-09-10 17:33,22-09-10 18:33,31103,16th & Harvard St NW,31106,Calvert & Biltmore St NW,W00428,Casual
+7580,22-09-10 17:34,22-09-10 19:40,31003,15th & Crystal Dr,31003,15th & Crystal Dr,W01025,Casual
+3504,22-09-10 17:34,22-09-10 18:33,31103,16th & Harvard St NW,31106,Calvert & Biltmore St NW,W00159,Casual
+7394,22-09-10 17:37,22-09-10 19:40,31003,15th & Crystal Dr,31003,15th & Crystal Dr,W01006,Casual
+419,22-09-10 17:38,22-09-10 17:45,31605,3rd & D St SE,31607,14th & D St SE,?(0xFFFFFFFFADC1C69A),Member
+984,22-09-10 17:38,22-09-10 17:55,31111,10th & U St NW,31107,Lamont & Mt Pleasant NW,W01059,Member
+303,22-09-10 17:40,22-09-10 17:45,31002,20th & Crystal Dr,31009,27th & Crystal Dr,W00958,Member
+198,22-09-10 17:40,22-09-10 17:43,31003,15th & Crystal Dr,31008,12th & Army Navy Dr,W00777,Casual
+721,22-09-10 17:41,22-09-10 17:53,31604,3rd & H St NW,31201,15th & P St NW,W00614,Member
+1016,22-09-10 17:41,22-09-10 17:58,31104,Adams Mill & Columbia Rd NW,31111,10th & U St NW,W01029,Casual
+3585,22-09-10 17:57,22-09-10 18:57,31009,27th & Crystal Dr,31009,27th & Crystal Dr,W00958,Casual
+5833,22-09-10 18:00,22-09-10 19:37,31204,20th & E St NW,31204,20th & E St NW,W00931,Casual
+486,22-09-10 18:01,22-09-10 18:09,31213,17th & K St NW,31201,15th & P St NW,W00838,Member
+443,22-09-10 18:05,22-09-10 18:13,31212,21st & M St NW,31203,14th & Rhode Island Ave NW,W00119,Member
+5473,22-09-10 18:06,22-09-10 19:37,31204,20th & E St NW,31204,20th & E St NW,W00569,Casual
+479,22-09-10 18:06,22-09-10 18:14,31105,14th & Harvard St NW,31201,15th & P St NW,W01081,Member
+708,22-09-10 18:08,22-09-10 18:20,31200,Massachusetts Ave & Dupont Circle NW,31111,10th & U St NW,W00780,Member
+5138,22-09-10 18:10,22-09-10 19:36,31201,15th & P St NW,31605,3rd & D St SE,W00838,Casual
+815,22-09-10 18:11,22-09-10 18:25,31205,21st & I St NW,31600,5th & K St NW,W00885,Member
+553,22-09-10 18:12,22-09-10 18:21,31602,Park Rd & Holmead Pl NW,31106,Calvert & Biltmore St NW,W00085,Member
+809,22-09-10 18:18,22-09-10 18:32,31101,14th & V St NW,31212,21st & M St NW,W00745,Member
+6564,22-09-10 18:19,22-09-10 20:09,31213,17th & K St NW,31103,16th & Harvard St NW,W00773,Casual
+171,22-09-10 18:19,22-09-10 18:22,31204,20th & E St NW,31204,20th & E St NW,W01069,Member
+628,22-09-10 18:23,22-09-10 18:33,31213,17th & K St NW,31101,14th & V St NW,W00943,Member
+814,22-09-10 18:23,22-09-10 18:37,31607,14th & D St SE,31209,1st & N St  SE,W00439,Member
+534,22-09-10 18:27,22-09-10 18:36,31204,20th & E St NW,31212,21st & M St NW,W01007,Casual
+930,22-09-10 18:31,22-09-10 18:46,31100,19th St & Pennsylvania Ave NW,31600,5th & K St NW,W00415,Member
+1496,22-09-10 18:31,22-09-10 18:56,31204,20th & E St NW,31111,10th & U St NW,W00637,Member
+534,22-09-10 18:32,22-09-10 18:41,31103,16th & Harvard St NW,31107,Lamont & Mt Pleasant NW,W00639,Member
+560,22-09-10 18:32,22-09-10 18:42,31202,14th & R St NW,31104,Adams Mill & Columbia Rd NW,W00556,Member
+1122,22-09-10 18:38,22-09-10 18:56,31203,14th & Rhode Island Ave NW,31105,14th & Harvard St NW,W00340,Member
+253,22-09-10 18:40,22-09-10 18:44,31000,Eads St & 15th St S,31003,15th & Crystal Dr,W01034,Member
+468,22-09-10 18:41,22-09-10 18:49,31202,14th & R St NW,31201,15th & P St NW,W00508,Member
+1510,22-09-10 18:42,22-09-10 19:07,31213,17th & K St NW,31103,16th & Harvard St NW,W00805,Casual
+387,22-09-10 18:44,22-09-10 18:50,31200,Massachusetts Ave & Dupont Circle NW,31203,14th & Rhode Island Ave NW,W00903,Member
+473,22-09-10 18:46,22-09-10 18:54,31100,19th St & Pennsylvania Ave NW,31201,15th & P St NW,W01050,Member
+393,22-09-10 18:48,22-09-10 18:54,31200,Massachusetts Ave & Dupont Circle NW,31201,15th & P St NW,W00546,Member
+432,22-09-10 18:49,22-09-10 18:56,31108,4th & M St SW,31209,1st & N St  SE,W00987,Member
+176,22-09-10 18:49,22-09-10 18:52,31104,Adams Mill & Columbia Rd NW,31106,Calvert & Biltmore St NW,W00556,Member
+953,22-09-10 18:50,22-09-10 19:05,31201,15th & P St NW,31200,Massachusetts Ave & Dupont Circle NW,W00742,Member
+535,22-09-10 18:51,22-09-10 19:00,31205,21st & I St NW,31200,Massachusetts Ave & Dupont Circle NW,W00491,Casual
+805,22-09-10 18:56,22-09-10 19:09,31600,5th & K St NW,31101,14th & V St NW,W00031,Member
+1028,22-09-10 19:01,22-09-10 19:18,31603,1st & M St NE,31202,14th & R St NW,W00526,Member
+1544,22-09-10 19:02,22-09-10 19:28,31213,17th & K St NW,31605,3rd & D St SE,W00955,Casual
+1128,22-09-10 19:02,22-09-10 19:21,31600,5th & K St NW,31101,14th & V St NW,W00577,Member
+776,22-09-10 19:04,22-09-10 19:17,31213,17th & K St NW,31604,3rd & H St NW,W00338,Member
+1427,22-09-10 19:06,22-09-10 19:30,31400,Georgia & New Hampshire Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W00911,Casual
+359,22-09-10 19:07,22-09-10 19:13,31204,20th & E St NW,31212,21st & M St NW,W00048,Member
+757,22-09-10 19:08,22-09-10 19:21,31110,20th St & Florida Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W00829,Member
+326,22-09-10 19:08,22-09-10 19:14,31110,20th St & Florida Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W00566,Member
+705,22-09-10 19:09,22-09-10 19:20,31205,21st & I St NW,31201,15th & P St NW,W00860,Casual
+935,22-09-10 19:09,22-09-10 19:24,31110,20th St & Florida Ave NW,31107,Lamont & Mt Pleasant NW,W00918,Member
+752,22-09-10 19:11,22-09-10 19:23,31101,14th & V St NW,31106,Calvert & Biltmore St NW,W00318,Member
+665,22-09-10 19:14,22-09-10 19:25,31600,5th & K St NW,31200,Massachusetts Ave & Dupont Circle NW,W01084,Member
+503,22-09-10 19:15,22-09-10 19:23,31201,15th & P St NW,31111,10th & U St NW,W00377,Member
+276,22-09-10 19:26,22-09-10 19:30,31109,7th & T St NW,31111,10th & U St NW,W00850,Member
+984,22-09-10 19:26,22-09-10 19:43,31203,14th & Rhode Island Ave NW,31400,Georgia & New Hampshire Ave NW,W00347,Member
+758,22-09-10 19:28,22-09-10 19:40,31200,Massachusetts Ave & Dupont Circle NW,31104,Adams Mill & Columbia Rd NW,W00194,Member
+1235,22-09-10 19:31,22-09-10 19:52,31106,Calvert & Biltmore St NW,31106,Calvert & Biltmore St NW,W00159,Member
+313,22-09-10 19:32,22-09-10 19:37,31213,17th & K St NW,31212,21st & M St NW,W00858,Member
+716,22-09-10 19:35,22-09-10 19:47,31103,16th & Harvard St NW,31110,20th St & Florida Ave NW,W00805,Member
+1179,22-09-10 19:36,22-09-10 19:55,31204,20th & E St NW,31600,5th & K St NW,W01069,Member
+757,22-09-10 19:40,22-09-10 19:53,31605,3rd & D St SE,31605,3rd & D St SE,W00838,Casual
+766,22-09-10 19:41,22-09-10 19:53,31201,15th & P St NW,31212,21st & M St NW,W01081,Casual
+373,22-09-10 19:45,22-09-10 19:51,31105,14th & Harvard St NW,31207,Georgia Ave and Fairmont St NW,W00559,Member
+372,22-09-10 19:45,22-09-10 19:51,31105,14th & Harvard St NW,31111,10th & U St NW,W00426,Member
+407,22-09-10 19:47,22-09-10 19:53,31200,Massachusetts Ave & Dupont Circle NW,31201,15th & P St NW,W00911,Member
+251,22-09-10 19:50,22-09-10 19:54,31111,10th & U St NW,31202,14th & R St NW,W00288,Member
+349,22-09-10 19:54,22-09-10 20:00,31213,17th & K St NW,31205,21st & I St NW,W00353,Member
+315,22-09-10 19:55,22-09-10 20:00,31107,Lamont & Mt Pleasant NW,31104,Adams Mill & Columbia Rd NW,W00729,Member
+334,22-09-10 19:56,22-09-10 20:02,31010,S Glebe & Potomac Ave,31009,27th & Crystal Dr,W00996,Casual
+781,22-09-10 20:00,22-09-10 20:13,31212,21st & M St NW,31204,20th & E St NW,W00048,Member
+468,22-09-10 20:04,22-09-10 20:12,31101,14th & V St NW,31104,Adams Mill & Columbia Rd NW,W00577,Member
+765,22-09-10 20:06,22-09-10 20:19,31202,14th & R St NW,31105,14th & Harvard St NW,W00288,Member
+624,22-09-10 20:15,22-09-10 20:25,31201,15th & P St NW,31600,5th & K St NW,W00911,Member
+882,22-09-10 20:17,22-09-10 20:31,31203,14th & Rhode Island Ave NW,31401,14th St & Spring Rd NW,W00119,Member
+102,22-09-10 20:21,22-09-10 20:22,31203,14th & Rhode Island Ave NW,31201,15th & P St NW,W00471,Member
+885,22-09-10 20:29,22-09-10 20:44,31602,Park Rd & Holmead Pl NW,31602,Park Rd & Holmead Pl NW,W00562,Casual
+738,22-09-10 20:32,22-09-10 20:44,31106,Calvert & Biltmore St NW,31602,Park Rd & Holmead Pl NW,W00159,Casual
+932,22-09-10 20:32,22-09-10 20:48,31205,21st & I St NW,31201,15th & P St NW,W00353,Member
+1788,22-09-10 20:38,22-09-10 21:08,31606,Potomac & Pennsylvania Ave SE,31108,4th & M St SW,W00540,Casual
+979,22-09-10 20:41,22-09-10 20:57,31205,21st & I St NW,31104,Adams Mill & Columbia Rd NW,W00543,Member
+563,22-09-10 20:43,22-09-10 20:52,31203,14th & Rhode Island Ave NW,31101,14th & V St NW,W00843,Member
+485,22-09-10 20:44,22-09-10 20:52,31106,Calvert & Biltmore St NW,31602,Park Rd & Holmead Pl NW,W00085,Member
+1459,22-09-10 20:45,22-09-10 21:10,31008,12th & Army Navy Dr,31001,18th & Eads St.,W01119,Casual
+1328,22-09-10 20:48,22-09-10 21:10,31008,12th & Army Navy Dr,31001,18th & Eads St.,W00777,Casual
+787,22-09-10 20:49,22-09-10 21:02,31200,Massachusetts Ave & Dupont Circle NW,31101,14th & V St NW,W01030,Member
+560,22-09-10 20:51,22-09-10 21:00,31205,21st & I St NW,31110,20th St & Florida Ave NW,W00557,Member
+831,22-09-10 20:54,22-09-10 21:08,31111,10th & U St NW,31103,16th & Harvard St NW,W00032,Member
+721,22-09-10 20:55,22-09-10 21:07,31600,5th & K St NW,31201,15th & P St NW,W00911,Member
+666,22-09-10 20:57,22-09-10 21:09,31200,Massachusetts Ave & Dupont Circle NW,31101,14th & V St NW,W01110,Member
+1196,22-09-10 21:01,22-09-10 21:21,31213,17th & K St NW,31103,16th & Harvard St NW,W00886,Casual
+714,22-09-10 21:08,22-09-10 21:20,31600,5th & K St NW,31203,14th & Rhode Island Ave NW,W01069,Casual
+664,22-09-10 21:09,22-09-10 21:20,31600,5th & K St NW,31203,14th & Rhode Island Ave NW,W00635,Casual
+631,22-09-10 21:12,22-09-10 21:23,31202,14th & R St NW,31202,14th & R St NW,W00724,Member
+819,22-09-10 21:13,22-09-10 21:27,31201,15th & P St NW,31104,Adams Mill & Columbia Rd NW,W00508,Member
+4492,22-09-10 21:14,22-09-10 22:29,31108,4th & M St SW,31200,Massachusetts Ave & Dupont Circle NW,W00570,Casual
+1109,22-09-10 21:16,22-09-10 21:34,31101,14th & V St NW,31500,4th & W St NE,W00868,Member
+510,22-09-10 21:17,22-09-10 21:25,31605,3rd & D St SE,31605,3rd & D St SE,W00563,Member
+1392,22-09-10 21:19,22-09-10 21:43,31212,21st & M St NW,31401,14th St & Spring Rd NW,W00745,Member
+41122,22-09-10 21:21,23-09-10 8:46,31212,21st & M St NW,31603,1st & M St NE,W00479,Casual
+8676,22-09-10 21:21,22-09-10 23:45,31001,18th & Eads St.,31008,12th & Army Navy Dr,W01083,Casual
+8668,22-09-10 21:21,22-09-10 23:46,31001,18th & Eads St.,31008,12th & Army Navy Dr,W01033,Casual
+303,22-09-10 21:23,22-09-10 21:28,31200,Massachusetts Ave & Dupont Circle NW,31212,21st & M St NW,W00191,Member
+3831,22-09-10 21:25,22-09-10 22:29,31600,5th & K St NW,31600,5th & K St NW,W00767,Casual
+400,22-09-10 21:26,22-09-10 21:32,31101,14th & V St NW,31101,14th & V St NW,W00376,Member
+284,22-09-10 21:27,22-09-10 21:31,31104,Adams Mill & Columbia Rd NW,31105,14th & Harvard St NW,W00577,Member
+196,22-09-10 21:28,22-09-10 21:31,31101,14th & V St NW,31111,10th & U St NW,W00031,Member
+549,22-09-10 21:29,22-09-10 21:38,31201,15th & P St NW,31101,14th & V St NW,W00860,Member
+550,22-09-10 21:41,22-09-10 21:50,31111,10th & U St NW,31600,5th & K St NW,W00437,Casual
+1114,22-09-10 21:49,22-09-10 22:08,31600,5th & K St NW,31108,4th & M St SW,W00755,Member
+1109,22-09-10 21:49,22-09-10 22:08,31600,5th & K St NW,31108,4th & M St SW,W00380,Member
+349,22-09-10 21:52,22-09-10 21:58,31105,14th & Harvard St NW,31207,Georgia Ave and Fairmont St NW,W00211,Member
+1825,22-09-10 21:56,22-09-10 22:26,31200,Massachusetts Ave & Dupont Circle NW,31400,Georgia & New Hampshire Ave NW,W00743,Casual
+384,22-09-10 21:56,22-09-10 22:03,31205,21st & I St NW,31200,Massachusetts Ave & Dupont Circle NW,W00476,Casual
+794,22-09-10 22:06,22-09-10 22:19,31104,Adams Mill & Columbia Rd NW,31103,16th & Harvard St NW,W00508,Member
+1331,22-09-10 22:18,22-09-10 22:40,31209,1st & N St  SE,31600,5th & K St NW,W00100,Member
+633,22-09-10 22:20,22-09-10 22:31,31101,14th & V St NW,31107,Lamont & Mt Pleasant NW,W00867,Member
+659,22-09-10 22:21,22-09-10 22:32,31209,1st & N St  SE,31108,4th & M St SW,W00439,Member
+410,22-09-10 22:21,22-09-10 22:28,31011,23rd & Crystal Dr,31010,S Glebe & Potomac Ave,W00819,Member
+294,22-09-10 22:25,22-09-10 22:30,31602,Park Rd & Holmead Pl NW,31400,Georgia & New Hampshire Ave NW,W00555,Casual
+462,22-09-10 22:27,22-09-10 22:35,31103,16th & Harvard St NW,31203,14th & Rhode Island Ave NW,W00711,Member
+489,22-09-10 22:33,22-09-10 22:41,31010,S Glebe & Potomac Ave,31000,Eads St & 15th St S,W00195,Member
+444,22-09-10 22:35,22-09-10 22:43,31105,14th & Harvard St NW,31202,14th & R St NW,W00577,Member
+200,22-09-10 22:38,22-09-10 22:42,31212,21st & M St NW,31200,Massachusetts Ave & Dupont Circle NW,W01071,Member
+928,22-09-10 22:39,22-09-10 22:55,31111,10th & U St NW,31205,21st & I St NW,W00031,Member
+603,22-09-10 22:52,22-09-10 23:02,31101,14th & V St NW,31207,Georgia Ave and Fairmont St NW,W01057,Member
+604,22-09-10 22:52,22-09-10 23:03,31101,14th & V St NW,31207,Georgia Ave and Fairmont St NW,W00843,Member
+896,22-09-10 23:07,22-09-10 23:22,31106,Calvert & Biltmore St NW,31103,16th & Harvard St NW,W00318,Member
+253,22-09-10 23:11,22-09-10 23:16,31007,Crystal City Metro / 18th & Bell St,31011,23rd & Crystal Dr,W00760,Casual
+989,22-09-10 23:16,22-09-10 23:32,31600,5th & K St NW,31104,Adams Mill & Columbia Rd NW,W00948,Casual
+593,22-09-10 23:18,22-09-10 23:28,31604,3rd & H St NW,31203,14th & Rhode Island Ave NW,W00310,Member
+3356,22-09-10 23:25,23-09-10 0:20,31100,19th St & Pennsylvania Ave NW,31201,15th & P St NW,W01067,Casual
+803,22-09-10 23:28,22-09-10 23:41,31400,Georgia & New Hampshire Ave NW,31104,Adams Mill & Columbia Rd NW,W00743,Member
+605,22-09-10 23:30,22-09-10 23:40,31107,Lamont & Mt Pleasant NW,31106,Calvert & Biltmore St NW,W00928,Casual
+614,22-09-10 23:38,22-09-10 23:49,31104,Adams Mill & Columbia Rd NW,31212,21st & M St NW,W00543,Member
+438,22-09-10 23:52,23-09-10 0:00,31103,16th & Harvard St NW,31111,10th & U St NW,W00032,Member
+541,23-09-10 0:19,23-09-10 0:28,31104,Adams Mill & Columbia Rd NW,31101,14th & V St NW,W00729,Member
+276,23-09-10 0:33,23-09-10 0:37,31013,Eads & 22nd St S,31004,Aurora Hills Community Ctr/18th & Hayes St,W01054,Casual
+349,23-09-10 0:41,23-09-10 0:47,31101,14th & V St NW,31104,Adams Mill & Columbia Rd NW,W00376,Member
+720,23-09-10 0:47,23-09-10 0:59,31104,Adams Mill & Columbia Rd NW,31400,Georgia & New Hampshire Ave NW,W00743,Member
+2814,23-09-10 2:01,23-09-10 2:48,31013,Eads & 22nd St S,31200,Massachusetts Ave & Dupont Circle NW,W00776,Casual
+305,23-09-10 2:49,23-09-10 2:54,31107,Lamont & Mt Pleasant NW,31104,Adams Mill & Columbia Rd NW,W00930,Member
+476,23-09-10 3:27,23-09-10 3:35,31104,Adams Mill & Columbia Rd NW,31107,Lamont & Mt Pleasant NW,W00194,Member
+600,23-09-10 6:01,23-09-10 6:11,31201,15th & P St NW,31600,5th & K St NW,W00811,Member
+2358,23-09-10 6:53,23-09-10 7:32,31009,27th & Crystal Dr,31009,27th & Crystal Dr,W00958,Member
+572,23-09-10 6:55,23-09-10 7:05,31200,Massachusetts Ave & Dupont Circle NW,31204,20th & E St NW,W00566,Member
+622,23-09-10 7:03,23-09-10 7:14,31107,Lamont & Mt Pleasant NW,31110,20th St & Florida Ave NW,W00918,Member
+167,23-09-10 7:12,23-09-10 7:14,31011,23rd & Crystal Dr,31007,Crystal City Metro / 18th & Bell St,W00707,Casual
+252,23-09-10 7:23,23-09-10 7:27,31401,14th St & Spring Rd NW,31602,Park Rd & Holmead Pl NW,W01113,Casual
+545,23-09-10 7:39,23-09-10 7:48,31103,16th & Harvard St NW,31203,14th & Rhode Island Ave NW,W00318,Member
+610,23-09-10 7:47,23-09-10 7:57,31103,16th & Harvard St NW,31212,21st & M St NW,W00886,Member
+282,23-09-10 7:55,23-09-10 7:59,31400,Georgia & New Hampshire Ave NW,31602,Park Rd & Holmead Pl NW,W00555,Member
+1101,23-09-10 7:57,23-09-10 8:15,31111,10th & U St NW,31204,20th & E St NW,W00637,Member
+642,23-09-10 7:57,23-09-10 8:08,31007,Crystal City Metro / 18th & Bell St,31009,27th & Crystal Dr,W00881,Member
+535,23-09-10 7:58,23-09-10 8:07,31401,14th St & Spring Rd NW,31101,14th & V St NW,W00960,Member
+1060,23-09-10 7:59,23-09-10 8:17,31603,1st & M St NE,31208,M St & New Jersey Ave SE,W00910,Member
+2280,23-09-10 7:59,23-09-10 8:37,31108,4th & M St SW,31208,M St & New Jersey Ave SE,W00755,Casual
+341,23-09-10 8:04,23-09-10 8:10,31602,Park Rd & Holmead Pl NW,31101,14th & V St NW,W00562,Member
+1604,23-09-10 8:05,23-09-10 8:31,31606,Potomac & Pennsylvania Ave SE,31213,17th & K St NW,w00583,Member
+36484,23-09-10 8:06,23-09-10 18:14,31104,Adams Mill & Columbia Rd NW,31104,Adams Mill & Columbia Rd NW,W00376,Casual
+422,23-09-10 8:06,23-09-10 8:13,31007,Crystal City Metro / 18th & Bell St,31000,Eads St & 15th St S,W00840,Member
+539,23-09-10 8:07,23-09-10 8:16,31105,14th & Harvard St NW,31200,Massachusetts Ave & Dupont Circle NW,W00605,Member
+384,23-09-10 8:07,23-09-10 8:13,31207,Georgia Ave and Fairmont St NW,31101,14th & V St NW,W00559,Member
+664,23-09-10 8:10,23-09-10 8:21,31101,14th & V St NW,31212,21st & M St NW,W01012,Casual
+1240,23-09-10 8:11,23-09-10 8:32,31106,Calvert & Biltmore St NW,31602,Park Rd & Holmead Pl NW,W00428,Member
+720,23-09-10 8:14,23-09-10 8:26,31600,5th & K St NW,31205,21st & I St NW,W00437,Member
+678,23-09-10 8:14,23-09-10 8:26,31400,Georgia & New Hampshire Ave NW,31600,5th & K St NW,W00347,Member
+785,23-09-10 8:19,23-09-10 8:32,31606,Potomac & Pennsylvania Ave SE,31108,4th & M St SW,W00274,Member
+3869,23-09-10 8:20,23-09-10 9:24,31107,Lamont & Mt Pleasant NW,31003,15th & Crystal Dr,W00194,Member
+385,23-09-10 8:24,23-09-10 8:30,31101,14th & V St NW,31200,Massachusetts Ave & Dupont Circle NW,W00960,Casual
+987,23-09-10 8:25,23-09-10 8:41,31105,14th & Harvard St NW,31204,20th & E St NW,W00288,Member
+317,23-09-10 8:25,23-09-10 8:30,31203,14th & Rhode Island Ave NW,31213,17th & K St NW,W00711,Member
+577,23-09-10 8:26,23-09-10 8:35,31202,14th & R St NW,31100,19th St & Pennsylvania Ave NW,W00526,Member
+459,23-09-10 8:31,23-09-10 8:39,31203,14th & Rhode Island Ave NW,31101,14th & V St NW,W00318,Member
+945,23-09-10 8:39,23-09-10 8:54,31400,Georgia & New Hampshire Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W00743,Casual
+421,23-09-10 8:39,23-09-10 8:46,31104,Adams Mill & Columbia Rd NW,31101,14th & V St NW,W00948,Member
+810,23-09-10 8:40,23-09-10 8:53,31103,16th & Harvard St NW,31213,17th & K St NW,W00508,Casual
+1232,23-09-10 8:41,23-09-10 9:02,31201,15th & P St NW,31110,20th St & Florida Ave NW,W01050,Member
+1008,23-09-10 8:41,23-09-10 8:58,31105,14th & Harvard St NW,31204,20th & E St NW,W00220,Casual
+683,23-09-10 8:42,23-09-10 8:53,31201,15th & P St NW,31205,21st & I St NW,W00614,Member
+24343,23-09-10 8:43,23-09-10 15:29,31111,10th & U St NW,31212,21st & M St NW,W00472,Member
+1349,23-09-10 8:47,23-09-10 9:10,31600,5th & K St NW,31600,5th & K St NW,W00885,Casual
+623,23-09-10 8:48,23-09-10 8:59,31203,14th & Rhode Island Ave NW,31604,3rd & H St NW,W01069,Member
+940,23-09-10 8:48,23-09-10 9:04,31607,14th & D St SE,31108,4th & M St SW,W00549,Member
+584,23-09-10 8:51,23-09-10 9:01,31101,14th & V St NW,31212,21st & M St NW,W00948,Member
+315,23-09-10 8:53,23-09-10 8:58,31200,Massachusetts Ave & Dupont Circle NW,31100,19th St & Pennsylvania Ave NW,W00742,Member
+1459,23-09-10 8:53,23-09-10 9:17,31101,14th & V St NW,31502,John McCormack Dr & Michigan Ave NE,W00729,Member
+854,23-09-10 9:03,23-09-10 9:17,31204,20th & E St NW,31600,5th & K St NW,W00048,Member
+884,23-09-10 9:03,23-09-10 9:18,31600,5th & K St NW,31200,Massachusetts Ave & Dupont Circle NW,W00811,Casual
+429,23-09-10 9:04,23-09-10 9:11,31110,20th St & Florida Ave NW,31203,14th & Rhode Island Ave NW,W00557,Member
+207,23-09-10 9:07,23-09-10 9:11,31200,Massachusetts Ave & Dupont Circle NW,31212,21st & M St NW,W00570,Member
+1609,23-09-10 9:08,23-09-10 9:34,31103,16th & Harvard St NW,31605,3rd & D St SE,W00773,Casual
+691,23-09-10 9:15,23-09-10 9:26,31105,14th & Harvard St NW,31203,14th & Rhode Island Ave NW,W00340,Member
+253,23-09-10 9:19,23-09-10 9:23,31104,Adams Mill & Columbia Rd NW,31110,20th St & Florida Ave NW,W00930,Member
+26866,23-09-10 9:20,23-09-10 16:47,31200,Massachusetts Ave & Dupont Circle NW,31101,14th & V St NW,W00491,Casual
+190,23-09-10 9:20,23-09-10 9:23,31111,10th & U St NW,31101,14th & V St NW,W00977,Member
+558,23-09-10 9:21,23-09-10 9:30,31106,Calvert & Biltmore St NW,31101,14th & V St NW,W00556,Member
+622,23-09-10 9:22,23-09-10 9:32,31106,Calvert & Biltmore St NW,31101,14th & V St NW,W00928,Member
+490,23-09-10 9:26,23-09-10 9:34,31200,Massachusetts Ave & Dupont Circle NW,31205,21st & I St NW,W00285,Member
+408,23-09-10 9:33,23-09-10 9:40,31201,15th & P St NW,31200,Massachusetts Ave & Dupont Circle NW,W00988,Member
+391,23-09-10 9:38,23-09-10 9:44,31109,7th & T St NW,31203,14th & Rhode Island Ave NW,W01074,Casual
+254,23-09-10 9:42,23-09-10 9:46,31101,14th & V St NW,31110,20th St & Florida Ave NW,W00512,Member
+717,23-09-10 9:44,23-09-10 9:56,31400,Georgia & New Hampshire Ave NW,31201,15th & P St NW,W00640,Member
+1302,23-09-10 9:45,23-09-10 10:07,31109,7th & T St NW,31108,4th & M St SW,W00641,Member
+838,23-09-10 9:52,23-09-10 10:06,31202,14th & R St NW,31205,21st & I St NW,W00577,Casual
+684,23-09-10 10:19,23-09-10 10:31,31109,7th & T St NW,31604,3rd & H St NW,W00482,Member
+317,23-09-10 10:25,23-09-10 10:30,31201,15th & P St NW,31213,17th & K St NW,W01099,Member
+18491,23-09-10 10:29,23-09-10 15:37,31602,Park Rd & Holmead Pl NW,31206,19th & E Street NW,W00159,Casual
+18479,23-09-10 10:29,23-09-10 15:37,31602,Park Rd & Holmead Pl NW,31206,19th & E Street NW,W00775,Casual
+690,23-09-10 10:33,23-09-10 10:44,31203,14th & Rhode Island Ave NW,31600,5th & K St NW,W00221,Member
+436,23-09-10 10:57,23-09-10 11:04,31205,21st & I St NW,31213,17th & K St NW,W00285,Member
+172,23-09-10 10:59,23-09-10 11:02,31212,21st & M St NW,31205,21st & I St NW,W01081,Casual
+1871,23-09-10 11:09,23-09-10 11:40,31110,20th St & Florida Ave NW,31604,3rd & H St NW,W01050,Casual
+2012,23-09-10 11:09,23-09-10 11:43,31110,20th St & Florida Ave NW,31604,3rd & H St NW,W00930,Casual
+434,23-09-10 11:13,23-09-10 11:20,31203,14th & Rhode Island Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W00277,Member
+564,23-09-10 11:22,23-09-10 11:32,31103,16th & Harvard St NW,31200,Massachusetts Ave & Dupont Circle NW,W00435,Member
+6026,23-09-10 11:24,23-09-10 13:05,31205,21st & I St NW,31006,S Joyce & Army Navy Dr,W01008,Casual
+489,23-09-10 11:25,23-09-10 11:33,31101,14th & V St NW,31104,Adams Mill & Columbia Rd NW,W00736,Member
+798,23-09-10 11:25,23-09-10 11:39,31213,17th & K St NW,31213,17th & K St NW,W01099,Member
+242,23-09-10 11:35,23-09-10 11:39,31103,16th & Harvard St NW,31104,Adams Mill & Columbia Rd NW,W00990,Member
+800,23-09-10 11:38,23-09-10 11:51,31111,10th & U St NW,31212,21st & M St NW,W00850,Member
+685,23-09-10 11:39,23-09-10 11:51,31101,14th & V St NW,31603,1st & M St NE,W00562,Member
+2377,23-09-10 11:40,23-09-10 12:20,31200,Massachusetts Ave & Dupont Circle NW,31206,19th & E Street NW,W01070,Casual
