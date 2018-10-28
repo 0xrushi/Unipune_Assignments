@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>HI MY NAME IS *</pattern>
+    <template>Hello <set name="username"> <star/>! </set></template>
+  </category>
+
+  <category>
+  <pattern>WHERE *</pattern>
+  <template>
+    <random>
+        <li> In stocks </li>
+        <li>Put some in stocks and some in savings </li>
+    </random>
+  </template>
+  </category>
+
+  <category>
+      <pattern>WHEN*</pattern>
+      <template>
+      <random>
+        <li>In few months</li>
+        <li>As soon as you have stable income</li>
+      </random>
+      </template>
+  </category>
+
+  <category>
+      <pattern>* INVESTMENT OPTIONS</pattern>
+      <template>There are various investment options like Equity Shares,Mutual Funds,Bonds</template>
+  </category>
+  
+  <category>
+      <pattern> I AM INTRESTED IN *</pattern>
+      <template>Yes we can discuss <set name="topic"><star/></set></template>
+  </category>
+  
+  <topic name="MUTUAL FUND">
+    <category><pattern>*</pattern>
+    <template>People who want to invest in equities and bond with a balance of risk and return generally choose to invest in mutual funds. This plan will definitely give a much better return compared to any other investment option.</template>
+    </category>
+  </topic>
+  
+  <topic name="EQUITY SHARES">
+    <category><pattern>*</pattern>
+    <template>Make sure you know how to analyze a share stock before going to buy direct equity or share. If the investment is for a long time for example more than 15 years it is somewhat sure that there will be higher return.</template>
+    </category>
+  </topic>
+
+  <topic name="MUTUAL FUND">
+    <category><pattern>MINIMUM INVESTMENT AMOUNT</pattern>
+    <template>As low as 500</template>
+    </category>
+  </topic>
+  
+  <topic name="EQUITY SHARES">
+    <category><pattern>MINIMUM INVESTMENT AMOUNT</pattern>
+    <template>No limit</template>
+    </category>
+  </topic>
+
+  <category>
+  <pattern>BYE</pattern>
+  <template>Goodbye It was nice to talk to you</template>
+  </category>
+
+</aiml>

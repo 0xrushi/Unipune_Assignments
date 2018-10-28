@@ -1,0 +1,1 @@
+This program takes an nxn matrix A , nx1 Matrix B and performs AxB
