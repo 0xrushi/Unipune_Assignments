@@ -62,7 +62,7 @@ if __name__ == '__main__':
     message = input("Enter a message to encrypt with your private key: ")
     encrypted_msg = encrypt(private, message)
     print ("Your encrypted message is: ")
-    print (''.join(encrypted_msg))
+    print (''.join(map(str,encrypted_msg)))
     print ("Decrypting message with public key ", public ," . . .")
     print ("Your message is:")
     print (decrypt(public, encrypted_msg))
