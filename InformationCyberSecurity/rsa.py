@@ -1,9 +1,7 @@
 import random
-
+import math
 def gcd(a, b):
-    while b != 0:
-        a, b = b, a % b
-    return a
+    return math.gcd(a,b)
 
 def is_prime(num):
     if num == 2:
@@ -32,7 +30,7 @@ def generate_keypair(p, q):
         g = gcd(e, phi)
 
     print("e = ",e)
-    for i in range(1,100):
+    for i in range(1,100000):
         d = ((phi * i) + 1)/e
         if d%1 ==0:
             break
@@ -59,10 +57,10 @@ if __name__ == '__main__':
     print ("Generating your public/private keypairs now . . .")
     public, private = generate_keypair(p, q)
     print ("Your public key is ", public ," and your private key is ", private)
-    message = input("Enter a message to encrypt with your private key: ")
-    encrypted_msg = encrypt(private, message)
+    message = input("Enter a message to encrypt with your public key: ")
+    encrypted_msg = encrypt(public, message)
     print ("Your encrypted message is: ")
     print (''.join(map(str,encrypted_msg)))
-    print ("Decrypting message with public key ", public ," . . .")
+    print ("Decrypting message with private key ", private ," . . .")
     print ("Your message is:")
-    print (decrypt(public, encrypted_msg))
+    print (decrypt(private, encrypted_msg))
